@@ -1,0 +1,5194 @@
+{
+  "names": [
+    {
+      "emoji": ":smile:",
+      "description": "smiling face with open mouth and smiling eyes",
+      "unicode": "😄",
+      "tags": "happy:joy:pleased:smile"
+    },
+    {
+      "emoji": ":smiley:",
+      "description": "smiling face with open mouth",
+      "unicode": "😃",
+      "tags": "happy:joy:haha:smiley"
+    },
+    {
+      "emoji": ":grinning:",
+      "description": "grinning face",
+      "unicode": "😀",
+      "tags": "smile:happy:grinning"
+    },
+    {
+      "emoji": ":blush:",
+      "description": "smiling face with smiling eyes",
+      "unicode": "😊",
+      "tags": "proud:blush"
+    },
+    {
+      "emoji": ":relaxed:",
+      "description": "white smiling face",
+      "unicode": "☺️",
+      "tags": "blush:pleased:relaxed"
+    },
+    {
+      "emoji": ":wink:",
+      "description": "winking face",
+      "unicode": "😉",
+      "tags": "flirt:wink"
+    },
+    {
+      "emoji": ":heart_eyes:",
+      "description": "smiling face with heart-shaped eyes",
+      "unicode": "😍",
+      "tags": "love:crush:heart_eyes"
+    },
+    {
+      "emoji": ":kissing_heart:",
+      "description": "face throwing a kiss",
+      "unicode": "😘",
+      "tags": "flirt:kissing_heart"
+    },
+    {
+      "emoji": ":kissing_closed_eyes:",
+      "description": "kissing face with closed eyes",
+      "unicode": "😚",
+      "tags": "kissing_closed_eyes"
+    },
+    {
+      "emoji": ":kissing:",
+      "description": "kissing face",
+      "unicode": "😗",
+      "tags": "kissing"
+    },
+    {
+      "emoji": ":kissing_smiling_eyes:",
+      "description": "kissing face with smiling eyes",
+      "unicode": "😙",
+      "tags": "kissing_smiling_eyes"
+    },
+    {
+      "emoji": ":stuck_out_tongue_winking_eye:",
+      "description": "face with stuck-out tongue and winking eye",
+      "unicode": "😜",
+      "tags": "prank:silly:stuck_out_tongue_winking_eye"
+    },
+    {
+      "emoji": ":stuck_out_tongue_closed_eyes:",
+      "description": "face with stuck-out tongue and tightly-closed eyes",
+      "unicode": "😝",
+      "tags": "prank:stuck_out_tongue_closed_eyes"
+    },
+    {
+      "emoji": ":stuck_out_tongue:",
+      "description": "face with stuck-out tongue",
+      "unicode": "😛",
+      "tags": "stuck_out_tongue"
+    },
+    {
+      "emoji": ":flushed:",
+      "description": "flushed face",
+      "unicode": "😳",
+      "tags": "flushed"
+    },
+    {
+      "emoji": ":grin:",
+      "description": "grinning face with smiling eyes",
+      "unicode": "😁",
+      "tags": "grin"
+    },
+    {
+      "emoji": ":pensive:",
+      "description": "pensive face",
+      "unicode": "😔",
+      "tags": "pensive"
+    },
+    {
+      "emoji": ":relieved:",
+      "description": "relieved face",
+      "unicode": "😌",
+      "tags": "whew:relieved"
+    },
+    {
+      "emoji": ":unamused:",
+      "description": "unamused face",
+      "unicode": "😒",
+      "tags": "meh:unamused"
+    },
+    {
+      "emoji": ":disappointed:",
+      "description": "disappointed face",
+      "unicode": "😞",
+      "tags": "sad:disappointed"
+    },
+    {
+      "emoji": ":persevere:",
+      "description": "persevering face",
+      "unicode": "😣",
+      "tags": "struggling:persevere"
+    },
+    {
+      "emoji": ":cry:",
+      "description": "crying face",
+      "unicode": "😢",
+      "tags": "sad:tear:cry"
+    },
+    {
+      "emoji": ":joy:",
+      "description": "face with tears of joy",
+      "unicode": "😂",
+      "tags": "tears:joy"
+    },
+    {
+      "emoji": ":sob:",
+      "description": "loudly crying face",
+      "unicode": "😭",
+      "tags": "sad:cry:bawling:sob"
+    },
+    {
+      "emoji": ":sleepy:",
+      "description": "sleepy face",
+      "unicode": "😪",
+      "tags": "tired:sleepy"
+    },
+    {
+      "emoji": ":disappointed_relieved:",
+      "description": "disappointed but relieved face",
+      "unicode": "😥",
+      "tags": "phew:sweat:nervous:disappointed_relieved"
+    },
+    {
+      "emoji": ":cold_sweat:",
+      "description": "face with open mouth and cold sweat",
+      "unicode": "😰",
+      "tags": "nervous:cold_sweat"
+    },
+    {
+      "emoji": ":sweat_smile:",
+      "description": "smiling face with open mouth and cold sweat",
+      "unicode": "😅",
+      "tags": "hot:sweat_smile"
+    },
+    {
+      "emoji": ":sweat:",
+      "description": "face with cold sweat",
+      "unicode": "😓",
+      "tags": "sweat"
+    },
+    {
+      "emoji": ":weary:",
+      "description": "weary face",
+      "unicode": "😩",
+      "tags": "tired:weary"
+    },
+    {
+      "emoji": ":tired_face:",
+      "description": "tired face",
+      "unicode": "😫",
+      "tags": "upset:whine:tired_face"
+    },
+    {
+      "emoji": ":fearful:",
+      "description": "fearful face",
+      "unicode": "😨",
+      "tags": "scared:shocked:oops:fearful"
+    },
+    {
+      "emoji": ":scream:",
+      "description": "face screaming in fear",
+      "unicode": "😱",
+      "tags": "horror:shocked:scream"
+    },
+    {
+      "emoji": ":angry:",
+      "description": "angry face",
+      "unicode": "😠",
+      "tags": "mad:annoyed:angry"
+    },
+    {
+      "emoji": ":rage:",
+      "description": "pouting face",
+      "unicode": "😡",
+      "tags": "angry:rage"
+    },
+    {
+      "emoji": ":triumph:",
+      "description": "face with look of triumph",
+      "unicode": "😤",
+      "tags": "smug:triumph"
+    },
+    {
+      "emoji": ":confounded:",
+      "description": "confounded face",
+      "unicode": "😖",
+      "tags": "confounded"
+    },
+    {
+      "emoji": ":laughing:",
+      "description": "smiling face with open mouth and tightly-closed eyes",
+      "unicode": "😆",
+      "tags": "happy:haha:laughing:satisfied"
+    },
+    {
+      "emoji": ":yum:",
+      "description": "face savouring delicious food",
+      "unicode": "😋",
+      "tags": "tongue:lick:yum"
+    },
+    {
+      "emoji": ":mask:",
+      "description": "face with medical mask",
+      "unicode": "😷",
+      "tags": "sick:ill:mask"
+    },
+    {
+      "emoji": ":sunglasses:",
+      "description": "smiling face with sunglasses",
+      "unicode": "😎",
+      "tags": "cool:sunglasses"
+    },
+    {
+      "emoji": ":sleeping:",
+      "description": "sleeping face",
+      "unicode": "😴",
+      "tags": "zzz:sleeping"
+    },
+    {
+      "emoji": ":dizzy_face:",
+      "description": "dizzy face",
+      "unicode": "😵",
+      "tags": "dizzy_face"
+    },
+    {
+      "emoji": ":astonished:",
+      "description": "astonished face",
+      "unicode": "😲",
+      "tags": "amazed:gasp:astonished"
+    },
+    {
+      "emoji": ":worried:",
+      "description": "worried face",
+      "unicode": "😟",
+      "tags": "nervous:worried"
+    },
+    {
+      "emoji": ":frowning:",
+      "description": "frowning face with open mouth",
+      "unicode": "😦",
+      "tags": "frowning"
+    },
+    {
+      "emoji": ":anguished:",
+      "description": "anguished face",
+      "unicode": "😧",
+      "tags": "stunned:anguished"
+    },
+    {
+      "emoji": ":smiling_imp:",
+      "description": "smiling face with horns",
+      "unicode": "😈",
+      "tags": "devil:evil:horns:smiling_imp"
+    },
+    {
+      "emoji": ":imp:",
+      "description": "imp",
+      "unicode": "👿",
+      "tags": "angry:devil:evil:horns:imp"
+    },
+    {
+      "emoji": ":open_mouth:",
+      "description": "face with open mouth",
+      "unicode": "😮",
+      "tags": "surprise:impressed:wow:open_mouth"
+    },
+    {
+      "emoji": ":grimacing:",
+      "description": "grimacing face",
+      "unicode": "😬",
+      "tags": "grimacing"
+    },
+    {
+      "emoji": ":neutral_face:",
+      "description": "neutral face",
+      "unicode": "😐",
+      "tags": "meh:neutral_face"
+    },
+    {
+      "emoji": ":confused:",
+      "description": "confused face",
+      "unicode": "😕",
+      "tags": "confused"
+    },
+    {
+      "emoji": ":hushed:",
+      "description": "hushed face",
+      "unicode": "😯",
+      "tags": "silence:speechless:hushed"
+    },
+    {
+      "emoji": ":no_mouth:",
+      "description": "face without mouth",
+      "unicode": "😶",
+      "tags": "mute:silence:no_mouth"
+    },
+    {
+      "emoji": ":innocent:",
+      "description": "smiling face with halo",
+      "unicode": "😇",
+      "tags": "angel:innocent"
+    },
+    {
+      "emoji": ":smirk:",
+      "description": "smirking face",
+      "unicode": "😏",
+      "tags": "smug:smirk"
+    },
+    {
+      "emoji": ":expressionless:",
+      "description": "expressionless face",
+      "unicode": "😑",
+      "tags": "expressionless"
+    },
+    {
+      "emoji": ":man_with_gua_pi_mao:",
+      "description": "man with gua pi mao",
+      "unicode": "👲",
+      "tags": "man_with_gua_pi_mao"
+    },
+    {
+      "emoji": ":man_with_turban:",
+      "description": "man with turban",
+      "unicode": "👳",
+      "tags": "man_with_turban"
+    },
+    {
+      "emoji": ":cop:",
+      "description": "police officer",
+      "unicode": "👮",
+      "tags": "police:law:cop"
+    },
+    {
+      "emoji": ":construction_worker:",
+      "description": "construction worker",
+      "unicode": "👷",
+      "tags": "helmet:construction_worker"
+    },
+    {
+      "emoji": ":guardsman:",
+      "description": "guardsman",
+      "unicode": "💂",
+      "tags": "guardsman"
+    },
+    {
+      "emoji": ":baby:",
+      "description": "baby",
+      "unicode": "👶",
+      "tags": "child:newborn:baby"
+    },
+    {
+      "emoji": ":boy:",
+      "description": "boy",
+      "unicode": "👦",
+      "tags": "child:boy"
+    },
+    {
+      "emoji": ":girl:",
+      "description": "girl",
+      "unicode": "👧",
+      "tags": "child:girl"
+    },
+    {
+      "emoji": ":man:",
+      "description": "man",
+      "unicode": "👨",
+      "tags": "mustache:father:dad:man"
+    },
+    {
+      "emoji": ":woman:",
+      "description": "woman",
+      "unicode": "👩",
+      "tags": "girls:woman"
+    },
+    {
+      "emoji": ":older_man:",
+      "description": "older man",
+      "unicode": "👴",
+      "tags": "older_man"
+    },
+    {
+      "emoji": ":older_woman:",
+      "description": "older woman",
+      "unicode": "👵",
+      "tags": "older_woman"
+    },
+    {
+      "emoji": ":person_with_blond_hair:",
+      "description": "person with blond hair",
+      "unicode": "👱",
+      "tags": "boy:person_with_blond_hair"
+    },
+    {
+      "emoji": ":angel:",
+      "description": "baby angel",
+      "unicode": "👼",
+      "tags": "angel"
+    },
+    {
+      "emoji": ":princess:",
+      "description": "princess",
+      "unicode": "👸",
+      "tags": "blonde:crown:royal:princess"
+    },
+    {
+      "emoji": ":smiley_cat:",
+      "description": "smiling cat face with open mouth",
+      "unicode": "😺",
+      "tags": "smiley_cat"
+    },
+    {
+      "emoji": ":smile_cat:",
+      "description": "grinning cat face with smiling eyes",
+      "unicode": "😸",
+      "tags": "smile_cat"
+    },
+    {
+      "emoji": ":heart_eyes_cat:",
+      "description": "smiling cat face with heart-shaped eyes",
+      "unicode": "😻",
+      "tags": "heart_eyes_cat"
+    },
+    {
+      "emoji": ":kissing_cat:",
+      "description": "kissing cat face with closed eyes",
+      "unicode": "😽",
+      "tags": "kissing_cat"
+    },
+    {
+      "emoji": ":smirk_cat:",
+      "description": "cat face with wry smile",
+      "unicode": "😼",
+      "tags": "smirk_cat"
+    },
+    {
+      "emoji": ":scream_cat:",
+      "description": "weary cat face",
+      "unicode": "🙀",
+      "tags": "horror:scream_cat"
+    },
+    {
+      "emoji": ":crying_cat_face:",
+      "description": "crying cat face",
+      "unicode": "😿",
+      "tags": "sad:tear:crying_cat_face"
+    },
+    {
+      "emoji": ":joy_cat:",
+      "description": "cat face with tears of joy",
+      "unicode": "😹",
+      "tags": "joy_cat"
+    },
+    {
+      "emoji": ":pouting_cat:",
+      "description": "pouting cat face",
+      "unicode": "😾",
+      "tags": "pouting_cat"
+    },
+    {
+      "emoji": ":japanese_ogre:",
+      "description": "japanese ogre",
+      "unicode": "👹",
+      "tags": "monster:japanese_ogre"
+    },
+    {
+      "emoji": ":japanese_goblin:",
+      "description": "japanese goblin",
+      "unicode": "👺",
+      "tags": "japanese_goblin"
+    },
+    {
+      "emoji": ":see_no_evil:",
+      "description": "see-no-evil monkey",
+      "unicode": "🙈",
+      "tags": "monkey:blind:ignore:see_no_evil"
+    },
+    {
+      "emoji": ":hear_no_evil:",
+      "description": "hear-no-evil monkey",
+      "unicode": "🙉",
+      "tags": "monkey:deaf:hear_no_evil"
+    },
+    {
+      "emoji": ":speak_no_evil:",
+      "description": "speak-no-evil monkey",
+      "unicode": "🙊",
+      "tags": "monkey:mute:hush:speak_no_evil"
+    },
+    {
+      "emoji": ":skull:",
+      "description": "skull",
+      "unicode": "💀",
+      "tags": "dead:danger:poison:skull"
+    },
+    {
+      "emoji": ":alien:",
+      "description": "extraterrestrial alien",
+      "unicode": "👽",
+      "tags": "ufo:alien"
+    },
+    {
+      "emoji": ":hankey:",
+      "description": "pile of poo",
+      "unicode": "💩",
+      "tags": "crap:hankey:poop:shit"
+    },
+    {
+      "emoji": ":fire:",
+      "description": "fire",
+      "unicode": "🔥",
+      "tags": "burn:fire"
+    },
+    {
+      "emoji": ":sparkles:",
+      "description": "sparkles",
+      "unicode": "✨",
+      "tags": "shiny:sparkles"
+    },
+    {
+      "emoji": ":star2:",
+      "description": "glowing star",
+      "unicode": "🌟",
+      "tags": "star2"
+    },
+    {
+      "emoji": ":dizzy:",
+      "description": "dizzy symbol",
+      "unicode": "💫",
+      "tags": "star:dizzy"
+    },
+    {
+      "emoji": ":boom:",
+      "description": "collision symbol",
+      "unicode": "💥",
+      "tags": "explode:boom:collision"
+    },
+    {
+      "emoji": ":anger:",
+      "description": "anger symbol",
+      "unicode": "💢",
+      "tags": "angry:anger"
+    },
+    {
+      "emoji": ":sweat_drops:",
+      "description": "splashing sweat symbol",
+      "unicode": "💦",
+      "tags": "water:workout:sweat_drops"
+    },
+    {
+      "emoji": ":droplet:",
+      "description": "droplet",
+      "unicode": "💧",
+      "tags": "water:droplet"
+    },
+    {
+      "emoji": ":zzz:",
+      "description": "sleeping symbol",
+      "unicode": "💤",
+      "tags": "sleeping:zzz"
+    },
+    {
+      "emoji": ":dash:",
+      "description": "dash symbol",
+      "unicode": "💨",
+      "tags": "wind:blow:fast:dash"
+    },
+    {
+      "emoji": ":ear:",
+      "description": "ear",
+      "unicode": "👂",
+      "tags": "hear:sound:listen:ear"
+    },
+    {
+      "emoji": ":eyes:",
+      "description": "eyes",
+      "unicode": "👀",
+      "tags": "look:see:watch:eyes"
+    },
+    {
+      "emoji": ":nose:",
+      "description": "nose",
+      "unicode": "👃",
+      "tags": "smell:nose"
+    },
+    {
+      "emoji": ":tongue:",
+      "description": "tongue",
+      "unicode": "👅",
+      "tags": "taste:tongue"
+    },
+    {
+      "emoji": ":lips:",
+      "description": "mouth",
+      "unicode": "👄",
+      "tags": "kiss:lips"
+    },
+    {
+      "emoji": ":+1:",
+      "description": "thumbs up sign",
+      "unicode": "👍",
+      "tags": "approve:ok:+1:thumbsup"
+    },
+    {
+      "emoji": ":-1:",
+      "description": "thumbs down sign",
+      "unicode": "👎",
+      "tags": "disapprove:bury:-1:thumbsdown"
+    },
+    {
+      "emoji": ":ok_hand:",
+      "description": "ok hand sign",
+      "unicode": "👌",
+      "tags": "ok_hand"
+    },
+    {
+      "emoji": ":facepunch:",
+      "description": "fisted hand sign",
+      "unicode": "👊",
+      "tags": "attack:facepunch:punch"
+    },
+    {
+      "emoji": ":fist:",
+      "description": "raised fist",
+      "unicode": "✊",
+      "tags": "power:fist"
+    },
+    {
+      "emoji": ":v:",
+      "description": "victory hand",
+      "unicode": "✌️",
+      "tags": "victory:peace:v"
+    },
+    {
+      "emoji": ":wave:",
+      "description": "waving hand sign",
+      "unicode": "👋",
+      "tags": "goodbye:wave"
+    },
+    {
+      "emoji": ":hand:",
+      "description": "raised hand",
+      "unicode": "✋",
+      "tags": "highfive:stop:hand:raised_hand"
+    },
+    {
+      "emoji": ":open_hands:",
+      "description": "open hands sign",
+      "unicode": "👐",
+      "tags": "open_hands"
+    },
+    {
+      "emoji": ":point_up_2:",
+      "description": "white up pointing backhand index",
+      "unicode": "👆",
+      "tags": "point_up_2"
+    },
+    {
+      "emoji": ":point_down:",
+      "description": "white down pointing backhand index",
+      "unicode": "👇",
+      "tags": "point_down"
+    },
+    {
+      "emoji": ":point_right:",
+      "description": "white right pointing backhand index",
+      "unicode": "👉",
+      "tags": "point_right"
+    },
+    {
+      "emoji": ":point_left:",
+      "description": "white left pointing backhand index",
+      "unicode": "👈",
+      "tags": "point_left"
+    },
+    {
+      "emoji": ":raised_hands:",
+      "description": "person raising both hands in celebration",
+      "unicode": "🙌",
+      "tags": "hooray:raised_hands"
+    },
+    {
+      "emoji": ":pray:",
+      "description": "person with folded hands",
+      "unicode": "🙏",
+      "tags": "please:hope:wish:pray"
+    },
+    {
+      "emoji": ":point_up:",
+      "description": "white up pointing index",
+      "unicode": "☝️",
+      "tags": "point_up"
+    },
+    {
+      "emoji": ":clap:",
+      "description": "clapping hands sign",
+      "unicode": "👏",
+      "tags": "praise:applause:clap"
+    },
+    {
+      "emoji": ":muscle:",
+      "description": "flexed biceps",
+      "unicode": "💪",
+      "tags": "flex:bicep:strong:workout:muscle"
+    },
+    {
+      "emoji": ":walking:",
+      "description": "pedestrian",
+      "unicode": "🚶",
+      "tags": "walking"
+    },
+    {
+      "emoji": ":runner:",
+      "description": "runner",
+      "unicode": "🏃",
+      "tags": "exercise:workout:marathon:runner:running"
+    },
+    {
+      "emoji": ":dancer:",
+      "description": "dancer",
+      "unicode": "💃",
+      "tags": "dress:dancer"
+    },
+    {
+      "emoji": ":couple:",
+      "description": "man and woman holding hands",
+      "unicode": "👫",
+      "tags": "date:couple"
+    },
+    {
+      "emoji": ":family:",
+      "description": "family",
+      "unicode": "👪",
+      "tags": "home:parents:child:family"
+    },
+    {
+      "emoji": ":two_men_holding_hands:",
+      "description": "two men holding hands",
+      "unicode": "👬",
+      "tags": "couple:date:two_men_holding_hands"
+    },
+    {
+      "emoji": ":two_women_holding_hands:",
+      "description": "two women holding hands",
+      "unicode": "👭",
+      "tags": "couple:date:two_women_holding_hands"
+    },
+    {
+      "emoji": ":couplekiss:",
+      "description": "kiss",
+      "unicode": "💏",
+      "tags": "couplekiss"
+    },
+    {
+      "emoji": ":couple_with_heart:",
+      "description": "couple with heart",
+      "unicode": "💑",
+      "tags": "couple_with_heart"
+    },
+    {
+      "emoji": ":dancers:",
+      "description": "woman with bunny ears",
+      "unicode": "👯",
+      "tags": "bunny:dancers"
+    },
+    {
+      "emoji": ":ok_woman:",
+      "description": "face with ok gesture",
+      "unicode": "🙆",
+      "tags": "ok_woman"
+    },
+    {
+      "emoji": ":no_good:",
+      "description": "face with no good gesture",
+      "unicode": "🙅",
+      "tags": "stop:halt:no_good"
+    },
+    {
+      "emoji": ":information_desk_person:",
+      "description": "information desk person",
+      "unicode": "💁",
+      "tags": "information_desk_person"
+    },
+    {
+      "emoji": ":raising_hand:",
+      "description": "happy person raising one hand",
+      "unicode": "🙋",
+      "tags": "raising_hand"
+    },
+    {
+      "emoji": ":massage:",
+      "description": "face massage",
+      "unicode": "💆",
+      "tags": "spa:massage"
+    },
+    {
+      "emoji": ":haircut:",
+      "description": "haircut",
+      "unicode": "💇",
+      "tags": "beauty:haircut"
+    },
+    {
+      "emoji": ":nail_care:",
+      "description": "nail polish",
+      "unicode": "💅",
+      "tags": "beauty:manicure:nail_care"
+    },
+    {
+      "emoji": ":bride_with_veil:",
+      "description": "bride with veil",
+      "unicode": "👰",
+      "tags": "marriage:wedding:bride_with_veil"
+    },
+    {
+      "emoji": ":person_with_pouting_face:",
+      "description": "person with pouting face",
+      "unicode": "🙎",
+      "tags": "person_with_pouting_face"
+    },
+    {
+      "emoji": ":person_frowning:",
+      "description": "person frowning",
+      "unicode": "🙍",
+      "tags": "sad:person_frowning"
+    },
+    {
+      "emoji": ":bow:",
+      "description": "person bowing deeply",
+      "unicode": "🙇",
+      "tags": "respect:thanks:bow"
+    },
+    {
+      "emoji": ":tophat:",
+      "description": "top hat",
+      "unicode": "🎩",
+      "tags": "hat:classy:tophat"
+    },
+    {
+      "emoji": ":crown:",
+      "description": "crown",
+      "unicode": "👑",
+      "tags": "king:queen:royal:crown"
+    },
+    {
+      "emoji": ":womans_hat:",
+      "description": "womans hat",
+      "unicode": "👒",
+      "tags": "womans_hat"
+    },
+    {
+      "emoji": ":athletic_shoe:",
+      "description": "athletic shoe",
+      "unicode": "👟",
+      "tags": "sneaker:sport:running:athletic_shoe"
+    },
+    {
+      "emoji": ":mans_shoe:",
+      "description": "mans shoe",
+      "unicode": "👞",
+      "tags": "mans_shoe:shoe"
+    },
+    {
+      "emoji": ":sandal:",
+      "description": "womans sandal",
+      "unicode": "👡",
+      "tags": "shoe:sandal"
+    },
+    {
+      "emoji": ":high_heel:",
+      "description": "high-heeled shoe",
+      "unicode": "👠",
+      "tags": "shoe:high_heel"
+    },
+    {
+      "emoji": ":boot:",
+      "description": "womans boots",
+      "unicode": "👢",
+      "tags": "boot"
+    },
+    {
+      "emoji": ":shirt:",
+      "description": "t-shirt",
+      "unicode": "👕",
+      "tags": "shirt:tshirt"
+    },
+    {
+      "emoji": ":necktie:",
+      "description": "necktie",
+      "unicode": "👔",
+      "tags": "shirt:formal:necktie"
+    },
+    {
+      "emoji": ":womans_clothes:",
+      "description": "womans clothes",
+      "unicode": "👚",
+      "tags": "womans_clothes"
+    },
+    {
+      "emoji": ":dress:",
+      "description": "dress",
+      "unicode": "👗",
+      "tags": "dress"
+    },
+    {
+      "emoji": ":running_shirt_with_sash:",
+      "description": "running shirt with sash",
+      "unicode": "🎽",
+      "tags": "marathon:running_shirt_with_sash"
+    },
+    {
+      "emoji": ":jeans:",
+      "description": "jeans",
+      "unicode": "👖",
+      "tags": "pants:jeans"
+    },
+    {
+      "emoji": ":kimono:",
+      "description": "kimono",
+      "unicode": "👘",
+      "tags": "kimono"
+    },
+    {
+      "emoji": ":bikini:",
+      "description": "bikini",
+      "unicode": "👙",
+      "tags": "beach:bikini"
+    },
+    {
+      "emoji": ":briefcase:",
+      "description": "briefcase",
+      "unicode": "💼",
+      "tags": "business:briefcase"
+    },
+    {
+      "emoji": ":handbag:",
+      "description": "handbag",
+      "unicode": "👜",
+      "tags": "bag:handbag"
+    },
+    {
+      "emoji": ":pouch:",
+      "description": "pouch",
+      "unicode": "👝",
+      "tags": "bag:pouch"
+    },
+    {
+      "emoji": ":purse:",
+      "description": "purse",
+      "unicode": "👛",
+      "tags": "purse"
+    },
+    {
+      "emoji": ":eyeglasses:",
+      "description": "eyeglasses",
+      "unicode": "👓",
+      "tags": "glasses:eyeglasses"
+    },
+    {
+      "emoji": ":ribbon:",
+      "description": "ribbon",
+      "unicode": "🎀",
+      "tags": "ribbon"
+    },
+    {
+      "emoji": ":closed_umbrella:",
+      "description": "closed umbrella",
+      "unicode": "🌂",
+      "tags": "weather:rain:closed_umbrella"
+    },
+    {
+      "emoji": ":lipstick:",
+      "description": "lipstick",
+      "unicode": "💄",
+      "tags": "makeup:lipstick"
+    },
+    {
+      "emoji": ":yellow_heart:",
+      "description": "yellow heart",
+      "unicode": "💛",
+      "tags": "yellow_heart"
+    },
+    {
+      "emoji": ":blue_heart:",
+      "description": "blue heart",
+      "unicode": "💙",
+      "tags": "blue_heart"
+    },
+    {
+      "emoji": ":purple_heart:",
+      "description": "purple heart",
+      "unicode": "💜",
+      "tags": "purple_heart"
+    },
+    {
+      "emoji": ":green_heart:",
+      "description": "green heart",
+      "unicode": "💚",
+      "tags": "green_heart"
+    },
+    {
+      "emoji": ":heart:",
+      "description": "heavy black heart",
+      "unicode": "❤️",
+      "tags": "love:heart"
+    },
+    {
+      "emoji": ":broken_heart:",
+      "description": "broken heart",
+      "unicode": "💔",
+      "tags": "broken_heart"
+    },
+    {
+      "emoji": ":heartpulse:",
+      "description": "growing heart",
+      "unicode": "💗",
+      "tags": "heartpulse"
+    },
+    {
+      "emoji": ":heartbeat:",
+      "description": "beating heart",
+      "unicode": "💓",
+      "tags": "heartbeat"
+    },
+    {
+      "emoji": ":two_hearts:",
+      "description": "two hearts",
+      "unicode": "💕",
+      "tags": "two_hearts"
+    },
+    {
+      "emoji": ":sparkling_heart:",
+      "description": "sparkling heart",
+      "unicode": "💖",
+      "tags": "sparkling_heart"
+    },
+    {
+      "emoji": ":revolving_hearts:",
+      "description": "revolving hearts",
+      "unicode": "💞",
+      "tags": "revolving_hearts"
+    },
+    {
+      "emoji": ":cupid:",
+      "description": "heart with arrow",
+      "unicode": "💘",
+      "tags": "love:heart:cupid"
+    },
+    {
+      "emoji": ":love_letter:",
+      "description": "love letter",
+      "unicode": "💌",
+      "tags": "email:envelope:love_letter"
+    },
+    {
+      "emoji": ":kiss:",
+      "description": "kiss mark",
+      "unicode": "💋",
+      "tags": "lipstick:kiss"
+    },
+    {
+      "emoji": ":ring:",
+      "description": "ring",
+      "unicode": "💍",
+      "tags": "wedding:marriage:engaged:ring"
+    },
+    {
+      "emoji": ":gem:",
+      "description": "gem stone",
+      "unicode": "💎",
+      "tags": "diamond:gem"
+    },
+    {
+      "emoji": ":bust_in_silhouette:",
+      "description": "bust in silhouette",
+      "unicode": "👤",
+      "tags": "user:bust_in_silhouette"
+    },
+    {
+      "emoji": ":busts_in_silhouette:",
+      "description": "busts in silhouette",
+      "unicode": "👥",
+      "tags": "users:group:team:busts_in_silhouette"
+    },
+    {
+      "emoji": ":speech_balloon:",
+      "description": "speech balloon",
+      "unicode": "💬",
+      "tags": "comment:speech_balloon"
+    },
+    {
+      "emoji": ":footprints:",
+      "description": "footprints",
+      "unicode": "👣",
+      "tags": "feet:tracks:footprints"
+    },
+    {
+      "emoji": ":thought_balloon:",
+      "description": "thought balloon",
+      "unicode": "💭",
+      "tags": "thinking:thought_balloon"
+    },
+    {
+      "emoji": ":dog:",
+      "description": "dog face",
+      "unicode": "🐶",
+      "tags": "pet:dog"
+    },
+    {
+      "emoji": ":wolf:",
+      "description": "wolf face",
+      "unicode": "🐺",
+      "tags": "wolf"
+    },
+    {
+      "emoji": ":cat:",
+      "description": "cat face",
+      "unicode": "🐱",
+      "tags": "pet:cat"
+    },
+    {
+      "emoji": ":mouse:",
+      "description": "mouse face",
+      "unicode": "🐭",
+      "tags": "mouse"
+    },
+    {
+      "emoji": ":hamster:",
+      "description": "hamster face",
+      "unicode": "🐹",
+      "tags": "pet:hamster"
+    },
+    {
+      "emoji": ":rabbit:",
+      "description": "rabbit face",
+      "unicode": "🐰",
+      "tags": "bunny:rabbit"
+    },
+    {
+      "emoji": ":frog:",
+      "description": "frog face",
+      "unicode": "🐸",
+      "tags": "frog"
+    },
+    {
+      "emoji": ":tiger:",
+      "description": "tiger face",
+      "unicode": "🐯",
+      "tags": "tiger"
+    },
+    {
+      "emoji": ":koala:",
+      "description": "koala",
+      "unicode": "🐨",
+      "tags": "koala"
+    },
+    {
+      "emoji": ":bear:",
+      "description": "bear face",
+      "unicode": "🐻",
+      "tags": "bear"
+    },
+    {
+      "emoji": ":pig:",
+      "description": "pig face",
+      "unicode": "🐷",
+      "tags": "pig"
+    },
+    {
+      "emoji": ":pig_nose:",
+      "description": "pig nose",
+      "unicode": "🐽",
+      "tags": "pig_nose"
+    },
+    {
+      "emoji": ":cow:",
+      "description": "cow face",
+      "unicode": "🐮",
+      "tags": "cow"
+    },
+    {
+      "emoji": ":boar:",
+      "description": "boar",
+      "unicode": "🐗",
+      "tags": "boar"
+    },
+    {
+      "emoji": ":monkey_face:",
+      "description": "monkey face",
+      "unicode": "🐵",
+      "tags": "monkey_face"
+    },
+    {
+      "emoji": ":monkey:",
+      "description": "monkey",
+      "unicode": "🐒",
+      "tags": "monkey"
+    },
+    {
+      "emoji": ":horse:",
+      "description": "horse face",
+      "unicode": "🐴",
+      "tags": "horse"
+    },
+    {
+      "emoji": ":sheep:",
+      "description": "sheep",
+      "unicode": "🐑",
+      "tags": "sheep"
+    },
+    {
+      "emoji": ":elephant:",
+      "description": "elephant",
+      "unicode": "🐘",
+      "tags": "elephant"
+    },
+    {
+      "emoji": ":panda_face:",
+      "description": "panda face",
+      "unicode": "🐼",
+      "tags": "panda_face"
+    },
+    {
+      "emoji": ":penguin:",
+      "description": "penguin",
+      "unicode": "🐧",
+      "tags": "penguin"
+    },
+    {
+      "emoji": ":bird:",
+      "description": "bird",
+      "unicode": "🐦",
+      "tags": "bird"
+    },
+    {
+      "emoji": ":baby_chick:",
+      "description": "baby chick",
+      "unicode": "🐤",
+      "tags": "baby_chick"
+    },
+    {
+      "emoji": ":hatched_chick:",
+      "description": "front-facing baby chick",
+      "unicode": "🐥",
+      "tags": "hatched_chick"
+    },
+    {
+      "emoji": ":hatching_chick:",
+      "description": "hatching chick",
+      "unicode": "🐣",
+      "tags": "hatching_chick"
+    },
+    {
+      "emoji": ":chicken:",
+      "description": "chicken",
+      "unicode": "🐔",
+      "tags": "chicken"
+    },
+    {
+      "emoji": ":snake:",
+      "description": "snake",
+      "unicode": "🐍",
+      "tags": "snake"
+    },
+    {
+      "emoji": ":turtle:",
+      "description": "turtle",
+      "unicode": "🐢",
+      "tags": "slow:turtle"
+    },
+    {
+      "emoji": ":bug:",
+      "description": "bug",
+      "unicode": "🐛",
+      "tags": "bug"
+    },
+    {
+      "emoji": ":bee:",
+      "description": "honeybee",
+      "unicode": "🐝",
+      "tags": "bee:honeybee"
+    },
+    {
+      "emoji": ":ant:",
+      "description": "ant",
+      "unicode": "🐜",
+      "tags": "ant"
+    },
+    {
+      "emoji": ":beetle:",
+      "description": "lady beetle",
+      "unicode": "🐞",
+      "tags": "bug:beetle"
+    },
+    {
+      "emoji": ":snail:",
+      "description": "snail",
+      "unicode": "🐌",
+      "tags": "slow:snail"
+    },
+    {
+      "emoji": ":octopus:",
+      "description": "octopus",
+      "unicode": "🐙",
+      "tags": "octopus"
+    },
+    {
+      "emoji": ":shell:",
+      "description": "spiral shell",
+      "unicode": "🐚",
+      "tags": "sea:beach:shell"
+    },
+    {
+      "emoji": ":tropical_fish:",
+      "description": "tropical fish",
+      "unicode": "🐠",
+      "tags": "tropical_fish"
+    },
+    {
+      "emoji": ":fish:",
+      "description": "fish",
+      "unicode": "🐟",
+      "tags": "fish"
+    },
+    {
+      "emoji": ":dolphin:",
+      "description": "dolphin",
+      "unicode": "🐬",
+      "tags": "dolphin:flipper"
+    },
+    {
+      "emoji": ":whale:",
+      "description": "spouting whale",
+      "unicode": "🐳",
+      "tags": "sea:whale"
+    },
+    {
+      "emoji": ":whale2:",
+      "description": "whale",
+      "unicode": "🐋",
+      "tags": "whale2"
+    },
+    {
+      "emoji": ":cow2:",
+      "description": "cow",
+      "unicode": "🐄",
+      "tags": "cow2"
+    },
+    {
+      "emoji": ":ram:",
+      "description": "ram",
+      "unicode": "🐏",
+      "tags": "ram"
+    },
+    {
+      "emoji": ":rat:",
+      "description": "rat",
+      "unicode": "🐀",
+      "tags": "rat"
+    },
+    {
+      "emoji": ":water_buffalo:",
+      "description": "water buffalo",
+      "unicode": "🐃",
+      "tags": "water_buffalo"
+    },
+    {
+      "emoji": ":tiger2:",
+      "description": "tiger",
+      "unicode": "🐅",
+      "tags": "tiger2"
+    },
+    {
+      "emoji": ":rabbit2:",
+      "description": "rabbit",
+      "unicode": "🐇",
+      "tags": "rabbit2"
+    },
+    {
+      "emoji": ":dragon:",
+      "description": "dragon",
+      "unicode": "🐉",
+      "tags": "dragon"
+    },
+    {
+      "emoji": ":racehorse:",
+      "description": "horse",
+      "unicode": "🐎",
+      "tags": "speed:racehorse"
+    },
+    {
+      "emoji": ":goat:",
+      "description": "goat",
+      "unicode": "🐐",
+      "tags": "goat"
+    },
+    {
+      "emoji": ":rooster:",
+      "description": "rooster",
+      "unicode": "🐓",
+      "tags": "rooster"
+    },
+    {
+      "emoji": ":dog2:",
+      "description": "dog",
+      "unicode": "🐕",
+      "tags": "dog2"
+    },
+    {
+      "emoji": ":pig2:",
+      "description": "pig",
+      "unicode": "🐖",
+      "tags": "pig2"
+    },
+    {
+      "emoji": ":mouse2:",
+      "description": "mouse",
+      "unicode": "🐁",
+      "tags": "mouse2"
+    },
+    {
+      "emoji": ":ox:",
+      "description": "ox",
+      "unicode": "🐂",
+      "tags": "ox"
+    },
+    {
+      "emoji": ":dragon_face:",
+      "description": "dragon face",
+      "unicode": "🐲",
+      "tags": "dragon_face"
+    },
+    {
+      "emoji": ":blowfish:",
+      "description": "blowfish",
+      "unicode": "🐡",
+      "tags": "blowfish"
+    },
+    {
+      "emoji": ":crocodile:",
+      "description": "crocodile",
+      "unicode": "🐊",
+      "tags": "crocodile"
+    },
+    {
+      "emoji": ":camel:",
+      "description": "bactrian camel",
+      "unicode": "🐫",
+      "tags": "camel"
+    },
+    {
+      "emoji": ":dromedary_camel:",
+      "description": "dromedary camel",
+      "unicode": "🐪",
+      "tags": "desert:dromedary_camel"
+    },
+    {
+      "emoji": ":leopard:",
+      "description": "leopard",
+      "unicode": "🐆",
+      "tags": "leopard"
+    },
+    {
+      "emoji": ":cat2:",
+      "description": "cat",
+      "unicode": "🐈",
+      "tags": "cat2"
+    },
+    {
+      "emoji": ":poodle:",
+      "description": "poodle",
+      "unicode": "🐩",
+      "tags": "dog:poodle"
+    },
+    {
+      "emoji": ":feet:",
+      "description": "paw prints",
+      "unicode": "🐾",
+      "tags": "feet:paw_prints"
+    },
+    {
+      "emoji": ":bouquet:",
+      "description": "bouquet",
+      "unicode": "💐",
+      "tags": "flowers:bouquet"
+    },
+    {
+      "emoji": ":cherry_blossom:",
+      "description": "cherry blossom",
+      "unicode": "🌸",
+      "tags": "flower:spring:cherry_blossom"
+    },
+    {
+      "emoji": ":tulip:",
+      "description": "tulip",
+      "unicode": "🌷",
+      "tags": "flower:tulip"
+    },
+    {
+      "emoji": ":four_leaf_clover:",
+      "description": "four leaf clover",
+      "unicode": "🍀",
+      "tags": "luck:four_leaf_clover"
+    },
+    {
+      "emoji": ":rose:",
+      "description": "rose",
+      "unicode": "🌹",
+      "tags": "flower:rose"
+    },
+    {
+      "emoji": ":sunflower:",
+      "description": "sunflower",
+      "unicode": "🌻",
+      "tags": "sunflower"
+    },
+    {
+      "emoji": ":hibiscus:",
+      "description": "hibiscus",
+      "unicode": "🌺",
+      "tags": "hibiscus"
+    },
+    {
+      "emoji": ":maple_leaf:",
+      "description": "maple leaf",
+      "unicode": "🍁",
+      "tags": "canada:maple_leaf"
+    },
+    {
+      "emoji": ":leaves:",
+      "description": "leaf fluttering in wind",
+      "unicode": "🍃",
+      "tags": "leaf:leaves"
+    },
+    {
+      "emoji": ":fallen_leaf:",
+      "description": "fallen leaf",
+      "unicode": "🍂",
+      "tags": "autumn:fallen_leaf"
+    },
+    {
+      "emoji": ":herb:",
+      "description": "herb",
+      "unicode": "🌿",
+      "tags": "herb"
+    },
+    {
+      "emoji": ":ear_of_rice:",
+      "description": "ear of rice",
+      "unicode": "🌾",
+      "tags": "ear_of_rice"
+    },
+    {
+      "emoji": ":mushroom:",
+      "description": "mushroom",
+      "unicode": "🍄",
+      "tags": "mushroom"
+    },
+    {
+      "emoji": ":cactus:",
+      "description": "cactus",
+      "unicode": "🌵",
+      "tags": "cactus"
+    },
+    {
+      "emoji": ":palm_tree:",
+      "description": "palm tree",
+      "unicode": "🌴",
+      "tags": "palm_tree"
+    },
+    {
+      "emoji": ":evergreen_tree:",
+      "description": "evergreen tree",
+      "unicode": "🌲",
+      "tags": "wood:evergreen_tree"
+    },
+    {
+      "emoji": ":deciduous_tree:",
+      "description": "deciduous tree",
+      "unicode": "🌳",
+      "tags": "wood:deciduous_tree"
+    },
+    {
+      "emoji": ":chestnut:",
+      "description": "chestnut",
+      "unicode": "🌰",
+      "tags": "chestnut"
+    },
+    {
+      "emoji": ":seedling:",
+      "description": "seedling",
+      "unicode": "🌱",
+      "tags": "plant:seedling"
+    },
+    {
+      "emoji": ":blossom:",
+      "description": "blossom",
+      "unicode": "🌼",
+      "tags": "blossom"
+    },
+    {
+      "emoji": ":globe_with_meridians:",
+      "description": "globe with meridians",
+      "unicode": "🌐",
+      "tags": "world:global:international:globe_with_meridians"
+    },
+    {
+      "emoji": ":sun_with_face:",
+      "description": "sun with face",
+      "unicode": "🌞",
+      "tags": "summer:sun_with_face"
+    },
+    {
+      "emoji": ":full_moon_with_face:",
+      "description": "full moon with face",
+      "unicode": "🌝",
+      "tags": "full_moon_with_face"
+    },
+    {
+      "emoji": ":new_moon_with_face:",
+      "description": "new moon with face",
+      "unicode": "🌚",
+      "tags": "new_moon_with_face"
+    },
+    {
+      "emoji": ":new_moon:",
+      "description": "new moon symbol",
+      "unicode": "🌑",
+      "tags": "new_moon"
+    },
+    {
+      "emoji": ":waxing_crescent_moon:",
+      "description": "waxing crescent moon symbol",
+      "unicode": "🌒",
+      "tags": "waxing_crescent_moon"
+    },
+    {
+      "emoji": ":first_quarter_moon:",
+      "description": "first quarter moon symbol",
+      "unicode": "🌓",
+      "tags": "first_quarter_moon"
+    },
+    {
+      "emoji": ":moon:",
+      "description": "waxing gibbous moon symbol",
+      "unicode": "🌔",
+      "tags": "moon:waxing_gibbous_moon"
+    },
+    {
+      "emoji": ":full_moon:",
+      "description": "full moon symbol",
+      "unicode": "🌕",
+      "tags": "full_moon"
+    },
+    {
+      "emoji": ":waning_gibbous_moon:",
+      "description": "waning gibbous moon symbol",
+      "unicode": "🌖",
+      "tags": "waning_gibbous_moon"
+    },
+    {
+      "emoji": ":last_quarter_moon:",
+      "description": "last quarter moon symbol",
+      "unicode": "🌗",
+      "tags": "last_quarter_moon"
+    },
+    {
+      "emoji": ":waning_crescent_moon:",
+      "description": "waning crescent moon symbol",
+      "unicode": "🌘",
+      "tags": "waning_crescent_moon"
+    },
+    {
+      "emoji": ":last_quarter_moon_with_face:",
+      "description": "last quarter moon with face",
+      "unicode": "🌜",
+      "tags": "last_quarter_moon_with_face"
+    },
+    {
+      "emoji": ":first_quarter_moon_with_face:",
+      "description": "first quarter moon with face",
+      "unicode": "🌛",
+      "tags": "first_quarter_moon_with_face"
+    },
+    {
+      "emoji": ":crescent_moon:",
+      "description": "crescent moon",
+      "unicode": "🌙",
+      "tags": "night:crescent_moon"
+    },
+    {
+      "emoji": ":earth_africa:",
+      "description": "earth globe europe-africa",
+      "unicode": "🌍",
+      "tags": "globe:world:international:earth_africa"
+    },
+    {
+      "emoji": ":earth_americas:",
+      "description": "earth globe americas",
+      "unicode": "🌎",
+      "tags": "globe:world:international:earth_americas"
+    },
+    {
+      "emoji": ":earth_asia:",
+      "description": "earth globe asia-australia",
+      "unicode": "🌏",
+      "tags": "globe:world:international:earth_asia"
+    },
+    {
+      "emoji": ":volcano:",
+      "description": "volcano",
+      "unicode": "🌋",
+      "tags": "volcano"
+    },
+    {
+      "emoji": ":milky_way:",
+      "description": "milky way",
+      "unicode": "🌌",
+      "tags": "milky_way"
+    },
+    {
+      "emoji": ":stars:",
+      "description": "shooting star",
+      "unicode": "🌠",
+      "tags": "stars"
+    },
+    {
+      "emoji": ":star:",
+      "description": "white medium star",
+      "unicode": "⭐",
+      "tags": "star"
+    },
+    {
+      "emoji": ":sunny:",
+      "description": "black sun with rays",
+      "unicode": "☀️",
+      "tags": "weather:sunny"
+    },
+    {
+      "emoji": ":partly_sunny:",
+      "description": "sun behind cloud",
+      "unicode": "⛅",
+      "tags": "weather:cloud:partly_sunny"
+    },
+    {
+      "emoji": ":cloud:",
+      "description": "cloud",
+      "unicode": "☁️",
+      "tags": "cloud"
+    },
+    {
+      "emoji": ":zap:",
+      "description": "high voltage sign",
+      "unicode": "⚡",
+      "tags": "lightning:thunder:zap"
+    },
+    {
+      "emoji": ":umbrella:",
+      "description": "umbrella with rain drops",
+      "unicode": "☔",
+      "tags": "rain:weather:umbrella"
+    },
+    {
+      "emoji": ":snowflake:",
+      "description": "snowflake",
+      "unicode": "❄️",
+      "tags": "winter:cold:weather:snowflake"
+    },
+    {
+      "emoji": ":snowman:",
+      "description": "snowman without snow",
+      "unicode": "⛄",
+      "tags": "winter:christmas:snowman"
+    },
+    {
+      "emoji": ":cyclone:",
+      "description": "cyclone",
+      "unicode": "🌀",
+      "tags": "swirl:cyclone"
+    },
+    {
+      "emoji": ":foggy:",
+      "description": "foggy",
+      "unicode": "🌁",
+      "tags": "karl:foggy"
+    },
+    {
+      "emoji": ":rainbow:",
+      "description": "rainbow",
+      "unicode": "🌈",
+      "tags": "pride:rainbow"
+    },
+    {
+      "emoji": ":ocean:",
+      "description": "water wave",
+      "unicode": "🌊",
+      "tags": "sea:ocean"
+    },
+    {
+      "emoji": ":bamboo:",
+      "description": "pine decoration",
+      "unicode": "🎍",
+      "tags": "bamboo"
+    },
+    {
+      "emoji": ":gift_heart:",
+      "description": "heart with ribbon",
+      "unicode": "💝",
+      "tags": "chocolates:gift_heart"
+    },
+    {
+      "emoji": ":dolls:",
+      "description": "japanese dolls",
+      "unicode": "🎎",
+      "tags": "dolls"
+    },
+    {
+      "emoji": ":school_satchel:",
+      "description": "school satchel",
+      "unicode": "🎒",
+      "tags": "school_satchel"
+    },
+    {
+      "emoji": ":mortar_board:",
+      "description": "graduation cap",
+      "unicode": "🎓",
+      "tags": "education:college:university:graduation:mortar_board"
+    },
+    {
+      "emoji": ":flags:",
+      "description": "carp streamer",
+      "unicode": "🎏",
+      "tags": "flags"
+    },
+    {
+      "emoji": ":fireworks:",
+      "description": "fireworks",
+      "unicode": "🎆",
+      "tags": "festival:celebration:fireworks"
+    },
+    {
+      "emoji": ":sparkler:",
+      "description": "firework sparkler",
+      "unicode": "🎇",
+      "tags": "sparkler"
+    },
+    {
+      "emoji": ":wind_chime:",
+      "description": "wind chime",
+      "unicode": "🎐",
+      "tags": "wind_chime"
+    },
+    {
+      "emoji": ":rice_scene:",
+      "description": "moon viewing ceremony",
+      "unicode": "🎑",
+      "tags": "rice_scene"
+    },
+    {
+      "emoji": ":jack_o_lantern:",
+      "description": "jack-o-lantern",
+      "unicode": "🎃",
+      "tags": "halloween:jack_o_lantern"
+    },
+    {
+      "emoji": ":ghost:",
+      "description": "ghost",
+      "unicode": "👻",
+      "tags": "halloween:ghost"
+    },
+    {
+      "emoji": ":santa:",
+      "description": "father christmas",
+      "unicode": "🎅",
+      "tags": "christmas:santa"
+    },
+    {
+      "emoji": ":christmas_tree:",
+      "description": "christmas tree",
+      "unicode": "🎄",
+      "tags": "christmas_tree"
+    },
+    {
+      "emoji": ":gift:",
+      "description": "wrapped present",
+      "unicode": "🎁",
+      "tags": "present:birthday:christmas:gift"
+    },
+    {
+      "emoji": ":tanabata_tree:",
+      "description": "tanabata tree",
+      "unicode": "🎋",
+      "tags": "tanabata_tree"
+    },
+    {
+      "emoji": ":tada:",
+      "description": "party popper",
+      "unicode": "🎉",
+      "tags": "party:tada"
+    },
+    {
+      "emoji": ":confetti_ball:",
+      "description": "confetti ball",
+      "unicode": "🎊",
+      "tags": "confetti_ball"
+    },
+    {
+      "emoji": ":balloon:",
+      "description": "balloon",
+      "unicode": "🎈",
+      "tags": "party:birthday:balloon"
+    },
+    {
+      "emoji": ":crossed_flags:",
+      "description": "crossed flags",
+      "unicode": "🎌",
+      "tags": "crossed_flags"
+    },
+    {
+      "emoji": ":crystal_ball:",
+      "description": "crystal ball",
+      "unicode": "🔮",
+      "tags": "fortune:crystal_ball"
+    },
+    {
+      "emoji": ":movie_camera:",
+      "description": "movie camera",
+      "unicode": "🎥",
+      "tags": "film:video:movie_camera"
+    },
+    {
+      "emoji": ":camera:",
+      "description": "camera",
+      "unicode": "📷",
+      "tags": "photo:camera"
+    },
+    {
+      "emoji": ":video_camera:",
+      "description": "video camera",
+      "unicode": "📹",
+      "tags": "video_camera"
+    },
+    {
+      "emoji": ":vhs:",
+      "description": "videocassette",
+      "unicode": "📼",
+      "tags": "vhs"
+    },
+    {
+      "emoji": ":cd:",
+      "description": "optical disc",
+      "unicode": "💿",
+      "tags": "cd"
+    },
+    {
+      "emoji": ":dvd:",
+      "description": "dvd",
+      "unicode": "📀",
+      "tags": "dvd"
+    },
+    {
+      "emoji": ":minidisc:",
+      "description": "minidisc",
+      "unicode": "💽",
+      "tags": "minidisc"
+    },
+    {
+      "emoji": ":floppy_disk:",
+      "description": "floppy disk",
+      "unicode": "💾",
+      "tags": "save:floppy_disk"
+    },
+    {
+      "emoji": ":computer:",
+      "description": "personal computer",
+      "unicode": "💻",
+      "tags": "desktop:screen:computer"
+    },
+    {
+      "emoji": ":iphone:",
+      "description": "mobile phone",
+      "unicode": "📱",
+      "tags": "smartphone:mobile:iphone"
+    },
+    {
+      "emoji": ":phone:",
+      "description": "black telephone",
+      "unicode": "☎️",
+      "tags": "phone:telephone"
+    },
+    {
+      "emoji": ":telephone_receiver:",
+      "description": "telephone receiver",
+      "unicode": "📞",
+      "tags": "phone:call:telephone_receiver"
+    },
+    {
+      "emoji": ":pager:",
+      "description": "pager",
+      "unicode": "📟",
+      "tags": "pager"
+    },
+    {
+      "emoji": ":fax:",
+      "description": "fax machine",
+      "unicode": "📠",
+      "tags": "fax"
+    },
+    {
+      "emoji": ":satellite:",
+      "description": "satellite antenna",
+      "unicode": "📡",
+      "tags": "signal:satellite"
+    },
+    {
+      "emoji": ":tv:",
+      "description": "television",
+      "unicode": "📺",
+      "tags": "tv"
+    },
+    {
+      "emoji": ":radio:",
+      "description": "radio",
+      "unicode": "📻",
+      "tags": "podcast:radio"
+    },
+    {
+      "emoji": ":loud_sound:",
+      "description": "speaker with three sound waves",
+      "unicode": "🔊",
+      "tags": "volume:loud_sound"
+    },
+    {
+      "emoji": ":sound:",
+      "description": "speaker with one sound wave",
+      "unicode": "🔉",
+      "tags": "volume:sound"
+    },
+    {
+      "emoji": ":speaker:",
+      "description": "speaker",
+      "unicode": "🔈",
+      "tags": "speaker"
+    },
+    {
+      "emoji": ":mute:",
+      "description": "speaker with cancellation stroke",
+      "unicode": "🔇",
+      "tags": "sound:volume:mute"
+    },
+    {
+      "emoji": ":bell:",
+      "description": "bell",
+      "unicode": "🔔",
+      "tags": "sound:notification:bell"
+    },
+    {
+      "emoji": ":no_bell:",
+      "description": "bell with cancellation stroke",
+      "unicode": "🔕",
+      "tags": "volume:off:no_bell"
+    },
+    {
+      "emoji": ":loudspeaker:",
+      "description": "public address loudspeaker",
+      "unicode": "📢",
+      "tags": "announcement:loudspeaker"
+    },
+    {
+      "emoji": ":mega:",
+      "description": "cheering megaphone",
+      "unicode": "📣",
+      "tags": "mega"
+    },
+    {
+      "emoji": ":hourglass_flowing_sand:",
+      "description": "hourglass with flowing sand",
+      "unicode": "⏳",
+      "tags": "time:hourglass_flowing_sand"
+    },
+    {
+      "emoji": ":hourglass:",
+      "description": "hourglass",
+      "unicode": "⌛",
+      "tags": "time:hourglass"
+    },
+    {
+      "emoji": ":alarm_clock:",
+      "description": "alarm clock",
+      "unicode": "⏰",
+      "tags": "morning:alarm_clock"
+    },
+    {
+      "emoji": ":watch:",
+      "description": "watch",
+      "unicode": "⌚",
+      "tags": "time:watch"
+    },
+    {
+      "emoji": ":unlock:",
+      "description": "open lock",
+      "unicode": "🔓",
+      "tags": "security:unlock"
+    },
+    {
+      "emoji": ":lock:",
+      "description": "lock",
+      "unicode": "🔒",
+      "tags": "security:private:lock"
+    },
+    {
+      "emoji": ":lock_with_ink_pen:",
+      "description": "lock with ink pen",
+      "unicode": "🔏",
+      "tags": "lock_with_ink_pen"
+    },
+    {
+      "emoji": ":closed_lock_with_key:",
+      "description": "closed lock with key",
+      "unicode": "🔐",
+      "tags": "security:closed_lock_with_key"
+    },
+    {
+      "emoji": ":key:",
+      "description": "key",
+      "unicode": "🔑",
+      "tags": "lock:password:key"
+    },
+    {
+      "emoji": ":mag_right:",
+      "description": "right-pointing magnifying glass",
+      "unicode": "🔎",
+      "tags": "mag_right"
+    },
+    {
+      "emoji": ":bulb:",
+      "description": "electric light bulb",
+      "unicode": "💡",
+      "tags": "idea:light:bulb"
+    },
+    {
+      "emoji": ":flashlight:",
+      "description": "electric torch",
+      "unicode": "🔦",
+      "tags": "flashlight"
+    },
+    {
+      "emoji": ":high_brightness:",
+      "description": "high brightness symbol",
+      "unicode": "🔆",
+      "tags": "high_brightness"
+    },
+    {
+      "emoji": ":low_brightness:",
+      "description": "low brightness symbol",
+      "unicode": "🔅",
+      "tags": "low_brightness"
+    },
+    {
+      "emoji": ":electric_plug:",
+      "description": "electric plug",
+      "unicode": "🔌",
+      "tags": "electric_plug"
+    },
+    {
+      "emoji": ":battery:",
+      "description": "battery",
+      "unicode": "🔋",
+      "tags": "power:battery"
+    },
+    {
+      "emoji": ":mag:",
+      "description": "left-pointing magnifying glass",
+      "unicode": "🔍",
+      "tags": "search:zoom:mag"
+    },
+    {
+      "emoji": ":bathtub:",
+      "description": "bathtub",
+      "unicode": "🛁",
+      "tags": "bathtub"
+    },
+    {
+      "emoji": ":bath:",
+      "description": "bath",
+      "unicode": "🛀",
+      "tags": "shower:bath"
+    },
+    {
+      "emoji": ":shower:",
+      "description": "shower",
+      "unicode": "🚿",
+      "tags": "bath:shower"
+    },
+    {
+      "emoji": ":toilet:",
+      "description": "toilet",
+      "unicode": "🚽",
+      "tags": "wc:toilet"
+    },
+    {
+      "emoji": ":wrench:",
+      "description": "wrench",
+      "unicode": "🔧",
+      "tags": "tool:wrench"
+    },
+    {
+      "emoji": ":nut_and_bolt:",
+      "description": "nut and bolt",
+      "unicode": "🔩",
+      "tags": "nut_and_bolt"
+    },
+    {
+      "emoji": ":hammer:",
+      "description": "hammer",
+      "unicode": "🔨",
+      "tags": "tool:hammer"
+    },
+    {
+      "emoji": ":door:",
+      "description": "door",
+      "unicode": "🚪",
+      "tags": "door"
+    },
+    {
+      "emoji": ":smoking:",
+      "description": "smoking symbol",
+      "unicode": "🚬",
+      "tags": "cigarette:smoking"
+    },
+    {
+      "emoji": ":bomb:",
+      "description": "bomb",
+      "unicode": "💣",
+      "tags": "boom:bomb"
+    },
+    {
+      "emoji": ":gun:",
+      "description": "pistol",
+      "unicode": "🔫",
+      "tags": "shoot:weapon:gun"
+    },
+    {
+      "emoji": ":hocho:",
+      "description": "hocho",
+      "unicode": "🔪",
+      "tags": "cut:chop:hocho:knife"
+    },
+    {
+      "emoji": ":pill:",
+      "description": "pill",
+      "unicode": "💊",
+      "tags": "health:medicine:pill"
+    },
+    {
+      "emoji": ":syringe:",
+      "description": "syringe",
+      "unicode": "💉",
+      "tags": "health:hospital:needle:syringe"
+    },
+    {
+      "emoji": ":moneybag:",
+      "description": "money bag",
+      "unicode": "💰",
+      "tags": "dollar:cream:moneybag"
+    },
+    {
+      "emoji": ":yen:",
+      "description": "banknote with yen sign",
+      "unicode": "💴",
+      "tags": "yen"
+    },
+    {
+      "emoji": ":dollar:",
+      "description": "banknote with dollar sign",
+      "unicode": "💵",
+      "tags": "money:dollar"
+    },
+    {
+      "emoji": ":pound:",
+      "description": "banknote with pound sign",
+      "unicode": "💷",
+      "tags": "pound"
+    },
+    {
+      "emoji": ":euro:",
+      "description": "banknote with euro sign",
+      "unicode": "💶",
+      "tags": "euro"
+    },
+    {
+      "emoji": ":credit_card:",
+      "description": "credit card",
+      "unicode": "💳",
+      "tags": "subscription:credit_card"
+    },
+    {
+      "emoji": ":money_with_wings:",
+      "description": "money with wings",
+      "unicode": "💸",
+      "tags": "dollar:money_with_wings"
+    },
+    {
+      "emoji": ":calling:",
+      "description": "mobile phone with rightwards arrow at left",
+      "unicode": "📲",
+      "tags": "call:incoming:calling"
+    },
+    {
+      "emoji": ":e-mail:",
+      "description": "e-mail symbol",
+      "unicode": "📧",
+      "tags": "e-mail"
+    },
+    {
+      "emoji": ":inbox_tray:",
+      "description": "inbox tray",
+      "unicode": "📥",
+      "tags": "inbox_tray"
+    },
+    {
+      "emoji": ":outbox_tray:",
+      "description": "outbox tray",
+      "unicode": "📤",
+      "tags": "outbox_tray"
+    },
+    {
+      "emoji": ":email:",
+      "description": "envelope",
+      "unicode": "✉️",
+      "tags": "letter:email:envelope"
+    },
+    {
+      "emoji": ":envelope_with_arrow:",
+      "description": "envelope with downwards arrow above",
+      "unicode": "📩",
+      "tags": "envelope_with_arrow"
+    },
+    {
+      "emoji": ":incoming_envelope:",
+      "description": "incoming envelope",
+      "unicode": "📨",
+      "tags": "incoming_envelope"
+    },
+    {
+      "emoji": ":postal_horn:",
+      "description": "postal horn",
+      "unicode": "📯",
+      "tags": "postal_horn"
+    },
+    {
+      "emoji": ":mailbox:",
+      "description": "closed mailbox with raised flag",
+      "unicode": "📫",
+      "tags": "mailbox"
+    },
+    {
+      "emoji": ":mailbox_closed:",
+      "description": "closed mailbox with lowered flag",
+      "unicode": "📪",
+      "tags": "mailbox_closed"
+    },
+    {
+      "emoji": ":mailbox_with_mail:",
+      "description": "open mailbox with raised flag",
+      "unicode": "📬",
+      "tags": "mailbox_with_mail"
+    },
+    {
+      "emoji": ":mailbox_with_no_mail:",
+      "description": "open mailbox with lowered flag",
+      "unicode": "📭",
+      "tags": "mailbox_with_no_mail"
+    },
+    {
+      "emoji": ":postbox:",
+      "description": "postbox",
+      "unicode": "📮",
+      "tags": "postbox"
+    },
+    {
+      "emoji": ":package:",
+      "description": "package",
+      "unicode": "📦",
+      "tags": "shipping:package"
+    },
+    {
+      "emoji": ":memo:",
+      "description": "memo",
+      "unicode": "📝",
+      "tags": "document:note:memo:pencil"
+    },
+    {
+      "emoji": ":page_facing_up:",
+      "description": "page facing up",
+      "unicode": "📄",
+      "tags": "document:page_facing_up"
+    },
+    {
+      "emoji": ":page_with_curl:",
+      "description": "page with curl",
+      "unicode": "📃",
+      "tags": "page_with_curl"
+    },
+    {
+      "emoji": ":bookmark_tabs:",
+      "description": "bookmark tabs",
+      "unicode": "📑",
+      "tags": "bookmark_tabs"
+    },
+    {
+      "emoji": ":bar_chart:",
+      "description": "bar chart",
+      "unicode": "📊",
+      "tags": "stats:metrics:bar_chart"
+    },
+    {
+      "emoji": ":chart_with_upwards_trend:",
+      "description": "chart with upwards trend",
+      "unicode": "📈",
+      "tags": "graph:metrics:chart_with_upwards_trend"
+    },
+    {
+      "emoji": ":chart_with_downwards_trend:",
+      "description": "chart with downwards trend",
+      "unicode": "📉",
+      "tags": "graph:metrics:chart_with_downwards_trend"
+    },
+    {
+      "emoji": ":scroll:",
+      "description": "scroll",
+      "unicode": "📜",
+      "tags": "document:scroll"
+    },
+    {
+      "emoji": ":clipboard:",
+      "description": "clipboard",
+      "unicode": "📋",
+      "tags": "clipboard"
+    },
+    {
+      "emoji": ":date:",
+      "description": "calendar",
+      "unicode": "📅",
+      "tags": "calendar:schedule:date"
+    },
+    {
+      "emoji": ":calendar:",
+      "description": "tear-off calendar",
+      "unicode": "📆",
+      "tags": "schedule:calendar"
+    },
+    {
+      "emoji": ":card_index:",
+      "description": "card index",
+      "unicode": "📇",
+      "tags": "card_index"
+    },
+    {
+      "emoji": ":file_folder:",
+      "description": "file folder",
+      "unicode": "📁",
+      "tags": "directory:file_folder"
+    },
+    {
+      "emoji": ":open_file_folder:",
+      "description": "open file folder",
+      "unicode": "📂",
+      "tags": "open_file_folder"
+    },
+    {
+      "emoji": ":scissors:",
+      "description": "black scissors",
+      "unicode": "✂️",
+      "tags": "cut:scissors"
+    },
+    {
+      "emoji": ":pushpin:",
+      "description": "pushpin",
+      "unicode": "📌",
+      "tags": "location:pushpin"
+    },
+    {
+      "emoji": ":paperclip:",
+      "description": "paperclip",
+      "unicode": "📎",
+      "tags": "paperclip"
+    },
+    {
+      "emoji": ":black_nib:",
+      "description": "black nib",
+      "unicode": "✒️",
+      "tags": "black_nib"
+    },
+    {
+      "emoji": ":pencil2:",
+      "description": "pencil",
+      "unicode": "✏️",
+      "tags": "pencil2"
+    },
+    {
+      "emoji": ":straight_ruler:",
+      "description": "straight ruler",
+      "unicode": "📏",
+      "tags": "straight_ruler"
+    },
+    {
+      "emoji": ":triangular_ruler:",
+      "description": "triangular ruler",
+      "unicode": "📐",
+      "tags": "triangular_ruler"
+    },
+    {
+      "emoji": ":closed_book:",
+      "description": "closed book",
+      "unicode": "📕",
+      "tags": "closed_book"
+    },
+    {
+      "emoji": ":green_book:",
+      "description": "green book",
+      "unicode": "📗",
+      "tags": "green_book"
+    },
+    {
+      "emoji": ":blue_book:",
+      "description": "blue book",
+      "unicode": "📘",
+      "tags": "blue_book"
+    },
+    {
+      "emoji": ":orange_book:",
+      "description": "orange book",
+      "unicode": "📙",
+      "tags": "orange_book"
+    },
+    {
+      "emoji": ":notebook:",
+      "description": "notebook",
+      "unicode": "📓",
+      "tags": "notebook"
+    },
+    {
+      "emoji": ":notebook_with_decorative_cover:",
+      "description": "notebook with decorative cover",
+      "unicode": "📔",
+      "tags": "notebook_with_decorative_cover"
+    },
+    {
+      "emoji": ":ledger:",
+      "description": "ledger",
+      "unicode": "📒",
+      "tags": "ledger"
+    },
+    {
+      "emoji": ":books:",
+      "description": "books",
+      "unicode": "📚",
+      "tags": "library:books"
+    },
+    {
+      "emoji": ":book:",
+      "description": "open book",
+      "unicode": "📖",
+      "tags": "book:open_book"
+    },
+    {
+      "emoji": ":bookmark:",
+      "description": "bookmark",
+      "unicode": "🔖",
+      "tags": "bookmark"
+    },
+    {
+      "emoji": ":name_badge:",
+      "description": "name badge",
+      "unicode": "📛",
+      "tags": "name_badge"
+    },
+    {
+      "emoji": ":microscope:",
+      "description": "microscope",
+      "unicode": "🔬",
+      "tags": "science:laboratory:investigate:microscope"
+    },
+    {
+      "emoji": ":telescope:",
+      "description": "telescope",
+      "unicode": "🔭",
+      "tags": "telescope"
+    },
+    {
+      "emoji": ":newspaper:",
+      "description": "newspaper",
+      "unicode": "📰",
+      "tags": "press:newspaper"
+    },
+    {
+      "emoji": ":art:",
+      "description": "artist palette",
+      "unicode": "🎨",
+      "tags": "design:paint:art"
+    },
+    {
+      "emoji": ":clapper:",
+      "description": "clapper board",
+      "unicode": "🎬",
+      "tags": "film:clapper"
+    },
+    {
+      "emoji": ":microphone:",
+      "description": "microphone",
+      "unicode": "🎤",
+      "tags": "sing:microphone"
+    },
+    {
+      "emoji": ":headphones:",
+      "description": "headphone",
+      "unicode": "🎧",
+      "tags": "music:earphones:headphones"
+    },
+    {
+      "emoji": ":musical_score:",
+      "description": "musical score",
+      "unicode": "🎼",
+      "tags": "musical_score"
+    },
+    {
+      "emoji": ":musical_note:",
+      "description": "musical note",
+      "unicode": "🎵",
+      "tags": "musical_note"
+    },
+    {
+      "emoji": ":notes:",
+      "description": "multiple musical notes",
+      "unicode": "🎶",
+      "tags": "music:notes"
+    },
+    {
+      "emoji": ":musical_keyboard:",
+      "description": "musical keyboard",
+      "unicode": "🎹",
+      "tags": "piano:musical_keyboard"
+    },
+    {
+      "emoji": ":violin:",
+      "description": "violin",
+      "unicode": "🎻",
+      "tags": "violin"
+    },
+    {
+      "emoji": ":trumpet:",
+      "description": "trumpet",
+      "unicode": "🎺",
+      "tags": "trumpet"
+    },
+    {
+      "emoji": ":saxophone:",
+      "description": "saxophone",
+      "unicode": "🎷",
+      "tags": "saxophone"
+    },
+    {
+      "emoji": ":guitar:",
+      "description": "guitar",
+      "unicode": "🎸",
+      "tags": "rock:guitar"
+    },
+    {
+      "emoji": ":space_invader:",
+      "description": "alien monster",
+      "unicode": "👾",
+      "tags": "game:retro:space_invader"
+    },
+    {
+      "emoji": ":video_game:",
+      "description": "video game",
+      "unicode": "🎮",
+      "tags": "play:controller:console:video_game"
+    },
+    {
+      "emoji": ":black_joker:",
+      "description": "playing card black joker",
+      "unicode": "🃏",
+      "tags": "black_joker"
+    },
+    {
+      "emoji": ":flower_playing_cards:",
+      "description": "flower playing cards",
+      "unicode": "🎴",
+      "tags": "flower_playing_cards"
+    },
+    {
+      "emoji": ":mahjong:",
+      "description": "mahjong tile red dragon",
+      "unicode": "🀄",
+      "tags": "mahjong"
+    },
+    {
+      "emoji": ":game_die:",
+      "description": "game die",
+      "unicode": "🎲",
+      "tags": "dice:gambling:game_die"
+    },
+    {
+      "emoji": ":dart:",
+      "description": "direct hit",
+      "unicode": "🎯",
+      "tags": "target:dart"
+    },
+    {
+      "emoji": ":football:",
+      "description": "american football",
+      "unicode": "🏈",
+      "tags": "sports:football"
+    },
+    {
+      "emoji": ":basketball:",
+      "description": "basketball and hoop",
+      "unicode": "🏀",
+      "tags": "sports:basketball"
+    },
+    {
+      "emoji": ":soccer:",
+      "description": "soccer ball",
+      "unicode": "⚽",
+      "tags": "sports:soccer"
+    },
+    {
+      "emoji": ":baseball:",
+      "description": "baseball",
+      "unicode": "⚾️",
+      "tags": "sports:baseball"
+    },
+    {
+      "emoji": ":tennis:",
+      "description": "tennis racquet and ball",
+      "unicode": "🎾",
+      "tags": "sports:tennis"
+    },
+    {
+      "emoji": ":8ball:",
+      "description": "billiards",
+      "unicode": "🎱",
+      "tags": "pool:billiards:8ball"
+    },
+    {
+      "emoji": ":rugby_football:",
+      "description": "rugby football",
+      "unicode": "🏉",
+      "tags": "rugby_football"
+    },
+    {
+      "emoji": ":bowling:",
+      "description": "bowling",
+      "unicode": "🎳",
+      "tags": "bowling"
+    },
+    {
+      "emoji": ":golf:",
+      "description": "flag in hole",
+      "unicode": "⛳",
+      "tags": "golf"
+    },
+    {
+      "emoji": ":mountain_bicyclist:",
+      "description": "mountain bicyclist",
+      "unicode": "🚵",
+      "tags": "mountain_bicyclist"
+    },
+    {
+      "emoji": ":bicyclist:",
+      "description": "bicyclist",
+      "unicode": "🚴",
+      "tags": "bicyclist"
+    },
+    {
+      "emoji": ":checkered_flag:",
+      "description": "chequered flag",
+      "unicode": "🏁",
+      "tags": "milestone:finish:checkered_flag"
+    },
+    {
+      "emoji": ":horse_racing:",
+      "description": "horse racing",
+      "unicode": "🏇",
+      "tags": "horse_racing"
+    },
+    {
+      "emoji": ":trophy:",
+      "description": "trophy",
+      "unicode": "🏆",
+      "tags": "award:contest:winner:trophy"
+    },
+    {
+      "emoji": ":ski:",
+      "description": "ski and ski boot",
+      "unicode": "🎿",
+      "tags": "ski"
+    },
+    {
+      "emoji": ":snowboarder:",
+      "description": "snowboarder",
+      "unicode": "🏂",
+      "tags": "snowboarder"
+    },
+    {
+      "emoji": ":swimmer:",
+      "description": "swimmer",
+      "unicode": "🏊",
+      "tags": "swimmer"
+    },
+    {
+      "emoji": ":surfer:",
+      "description": "surfer",
+      "unicode": "🏄",
+      "tags": "surfer"
+    },
+    {
+      "emoji": ":fishing_pole_and_fish:",
+      "description": "fishing pole and fish",
+      "unicode": "🎣",
+      "tags": "fishing_pole_and_fish"
+    },
+    {
+      "emoji": ":coffee:",
+      "description": "hot beverage",
+      "unicode": "☕",
+      "tags": "cafe:espresso:coffee"
+    },
+    {
+      "emoji": ":tea:",
+      "description": "teacup without handle",
+      "unicode": "🍵",
+      "tags": "green:breakfast:tea"
+    },
+    {
+      "emoji": ":sake:",
+      "description": "sake bottle and cup",
+      "unicode": "🍶",
+      "tags": "sake"
+    },
+    {
+      "emoji": ":baby_bottle:",
+      "description": "baby bottle",
+      "unicode": "🍼",
+      "tags": "milk:baby_bottle"
+    },
+    {
+      "emoji": ":beer:",
+      "description": "beer mug",
+      "unicode": "🍺",
+      "tags": "drink:beer"
+    },
+    {
+      "emoji": ":beers:",
+      "description": "clinking beer mugs",
+      "unicode": "🍻",
+      "tags": "drinks:beers"
+    },
+    {
+      "emoji": ":cocktail:",
+      "description": "cocktail glass",
+      "unicode": "🍸",
+      "tags": "drink:cocktail"
+    },
+    {
+      "emoji": ":tropical_drink:",
+      "description": "tropical drink",
+      "unicode": "🍹",
+      "tags": "summer:vacation:tropical_drink"
+    },
+    {
+      "emoji": ":wine_glass:",
+      "description": "wine glass",
+      "unicode": "🍷",
+      "tags": "wine_glass"
+    },
+    {
+      "emoji": ":fork_and_knife:",
+      "description": "fork and knife",
+      "unicode": "🍴",
+      "tags": "cutlery:fork_and_knife"
+    },
+    {
+      "emoji": ":pizza:",
+      "description": "slice of pizza",
+      "unicode": "🍕",
+      "tags": "pizza"
+    },
+    {
+      "emoji": ":hamburger:",
+      "description": "hamburger",
+      "unicode": "🍔",
+      "tags": "burger:hamburger"
+    },
+    {
+      "emoji": ":fries:",
+      "description": "french fries",
+      "unicode": "🍟",
+      "tags": "fries"
+    },
+    {
+      "emoji": ":poultry_leg:",
+      "description": "poultry leg",
+      "unicode": "🍗",
+      "tags": "meat:chicken:poultry_leg"
+    },
+    {
+      "emoji": ":meat_on_bone:",
+      "description": "meat on bone",
+      "unicode": "🍖",
+      "tags": "meat_on_bone"
+    },
+    {
+      "emoji": ":spaghetti:",
+      "description": "spaghetti",
+      "unicode": "🍝",
+      "tags": "pasta:spaghetti"
+    },
+    {
+      "emoji": ":curry:",
+      "description": "curry and rice",
+      "unicode": "🍛",
+      "tags": "curry"
+    },
+    {
+      "emoji": ":fried_shrimp:",
+      "description": "fried shrimp",
+      "unicode": "🍤",
+      "tags": "tempura:fried_shrimp"
+    },
+    {
+      "emoji": ":bento:",
+      "description": "bento box",
+      "unicode": "🍱",
+      "tags": "bento"
+    },
+    {
+      "emoji": ":sushi:",
+      "description": "sushi",
+      "unicode": "🍣",
+      "tags": "sushi"
+    },
+    {
+      "emoji": ":fish_cake:",
+      "description": "fish cake with swirl design",
+      "unicode": "🍥",
+      "tags": "fish_cake"
+    },
+    {
+      "emoji": ":rice_ball:",
+      "description": "rice ball",
+      "unicode": "🍙",
+      "tags": "rice_ball"
+    },
+    {
+      "emoji": ":rice_cracker:",
+      "description": "rice cracker",
+      "unicode": "🍘",
+      "tags": "rice_cracker"
+    },
+    {
+      "emoji": ":rice:",
+      "description": "cooked rice",
+      "unicode": "🍚",
+      "tags": "rice"
+    },
+    {
+      "emoji": ":ramen:",
+      "description": "steaming bowl",
+      "unicode": "🍜",
+      "tags": "noodle:ramen"
+    },
+    {
+      "emoji": ":stew:",
+      "description": "pot of food",
+      "unicode": "🍲",
+      "tags": "stew"
+    },
+    {
+      "emoji": ":oden:",
+      "description": "oden",
+      "unicode": "🍢",
+      "tags": "oden"
+    },
+    {
+      "emoji": ":dango:",
+      "description": "dango",
+      "unicode": "🍡",
+      "tags": "dango"
+    },
+    {
+      "emoji": ":egg:",
+      "description": "cooking",
+      "unicode": "🍳",
+      "tags": "breakfast:egg"
+    },
+    {
+      "emoji": ":bread:",
+      "description": "bread",
+      "unicode": "🍞",
+      "tags": "toast:bread"
+    },
+    {
+      "emoji": ":doughnut:",
+      "description": "doughnut",
+      "unicode": "🍩",
+      "tags": "doughnut"
+    },
+    {
+      "emoji": ":custard:",
+      "description": "custard",
+      "unicode": "🍮",
+      "tags": "custard"
+    },
+    {
+      "emoji": ":icecream:",
+      "description": "soft ice cream",
+      "unicode": "🍦",
+      "tags": "icecream"
+    },
+    {
+      "emoji": ":ice_cream:",
+      "description": "ice cream",
+      "unicode": "🍨",
+      "tags": "ice_cream"
+    },
+    {
+      "emoji": ":shaved_ice:",
+      "description": "shaved ice",
+      "unicode": "🍧",
+      "tags": "shaved_ice"
+    },
+    {
+      "emoji": ":birthday:",
+      "description": "birthday cake",
+      "unicode": "🎂",
+      "tags": "party:birthday"
+    },
+    {
+      "emoji": ":cake:",
+      "description": "shortcake",
+      "unicode": "🍰",
+      "tags": "dessert:cake"
+    },
+    {
+      "emoji": ":cookie:",
+      "description": "cookie",
+      "unicode": "🍪",
+      "tags": "cookie"
+    },
+    {
+      "emoji": ":chocolate_bar:",
+      "description": "chocolate bar",
+      "unicode": "🍫",
+      "tags": "chocolate_bar"
+    },
+    {
+      "emoji": ":candy:",
+      "description": "candy",
+      "unicode": "🍬",
+      "tags": "sweet:candy"
+    },
+    {
+      "emoji": ":lollipop:",
+      "description": "lollipop",
+      "unicode": "🍭",
+      "tags": "lollipop"
+    },
+    {
+      "emoji": ":honey_pot:",
+      "description": "honey pot",
+      "unicode": "🍯",
+      "tags": "honey_pot"
+    },
+    {
+      "emoji": ":apple:",
+      "description": "red apple",
+      "unicode": "🍎",
+      "tags": "apple"
+    },
+    {
+      "emoji": ":green_apple:",
+      "description": "green apple",
+      "unicode": "🍏",
+      "tags": "fruit:green_apple"
+    },
+    {
+      "emoji": ":tangerine:",
+      "description": "tangerine",
+      "unicode": "🍊",
+      "tags": "tangerine"
+    },
+    {
+      "emoji": ":lemon:",
+      "description": "lemon",
+      "unicode": "🍋",
+      "tags": "lemon"
+    },
+    {
+      "emoji": ":cherries:",
+      "description": "cherries",
+      "unicode": "🍒",
+      "tags": "fruit:cherries"
+    },
+    {
+      "emoji": ":grapes:",
+      "description": "grapes",
+      "unicode": "🍇",
+      "tags": "grapes"
+    },
+    {
+      "emoji": ":watermelon:",
+      "description": "watermelon",
+      "unicode": "🍉",
+      "tags": "watermelon"
+    },
+    {
+      "emoji": ":strawberry:",
+      "description": "strawberry",
+      "unicode": "🍓",
+      "tags": "fruit:strawberry"
+    },
+    {
+      "emoji": ":peach:",
+      "description": "peach",
+      "unicode": "🍑",
+      "tags": "peach"
+    },
+    {
+      "emoji": ":melon:",
+      "description": "melon",
+      "unicode": "🍈",
+      "tags": "melon"
+    },
+    {
+      "emoji": ":banana:",
+      "description": "banana",
+      "unicode": "🍌",
+      "tags": "fruit:banana"
+    },
+    {
+      "emoji": ":pear:",
+      "description": "pear",
+      "unicode": "🍐",
+      "tags": "pear"
+    },
+    {
+      "emoji": ":pineapple:",
+      "description": "pineapple",
+      "unicode": "🍍",
+      "tags": "pineapple"
+    },
+    {
+      "emoji": ":sweet_potato:",
+      "description": "roasted sweet potato",
+      "unicode": "🍠",
+      "tags": "sweet_potato"
+    },
+    {
+      "emoji": ":eggplant:",
+      "description": "aubergine",
+      "unicode": "🍆",
+      "tags": "aubergine:eggplant"
+    },
+    {
+      "emoji": ":tomato:",
+      "description": "tomato",
+      "unicode": "🍅",
+      "tags": "tomato"
+    },
+    {
+      "emoji": ":corn:",
+      "description": "ear of maize",
+      "unicode": "🌽",
+      "tags": "corn"
+    },
+    {
+      "emoji": ":house:",
+      "description": "house building",
+      "unicode": "🏠",
+      "tags": "house"
+    },
+    {
+      "emoji": ":house_with_garden:",
+      "description": "house with garden",
+      "unicode": "🏡",
+      "tags": "house_with_garden"
+    },
+    {
+      "emoji": ":school:",
+      "description": "school",
+      "unicode": "🏫",
+      "tags": "school"
+    },
+    {
+      "emoji": ":office:",
+      "description": "office building",
+      "unicode": "🏢",
+      "tags": "office"
+    },
+    {
+      "emoji": ":post_office:",
+      "description": "japanese post office",
+      "unicode": "🏣",
+      "tags": "post_office"
+    },
+    {
+      "emoji": ":hospital:",
+      "description": "hospital",
+      "unicode": "🏥",
+      "tags": "hospital"
+    },
+    {
+      "emoji": ":bank:",
+      "description": "bank",
+      "unicode": "🏦",
+      "tags": "bank"
+    },
+    {
+      "emoji": ":convenience_store:",
+      "description": "convenience store",
+      "unicode": "🏪",
+      "tags": "convenience_store"
+    },
+    {
+      "emoji": ":love_hotel:",
+      "description": "love hotel",
+      "unicode": "🏩",
+      "tags": "love_hotel"
+    },
+    {
+      "emoji": ":hotel:",
+      "description": "hotel",
+      "unicode": "🏨",
+      "tags": "hotel"
+    },
+    {
+      "emoji": ":wedding:",
+      "description": "wedding",
+      "unicode": "💒",
+      "tags": "marriage:wedding"
+    },
+    {
+      "emoji": ":church:",
+      "description": "church",
+      "unicode": "⛪",
+      "tags": "church"
+    },
+    {
+      "emoji": ":department_store:",
+      "description": "department store",
+      "unicode": "🏬",
+      "tags": "department_store"
+    },
+    {
+      "emoji": ":european_post_office:",
+      "description": "european post office",
+      "unicode": "🏤",
+      "tags": "european_post_office"
+    },
+    {
+      "emoji": ":city_sunrise:",
+      "description": "sunset over buildings",
+      "unicode": "🌇",
+      "tags": "city_sunrise"
+    },
+    {
+      "emoji": ":city_sunset:",
+      "description": "cityscape at dusk",
+      "unicode": "🌆",
+      "tags": "city_sunset"
+    },
+    {
+      "emoji": ":japanese_castle:",
+      "description": "japanese castle",
+      "unicode": "🏯",
+      "tags": "japanese_castle"
+    },
+    {
+      "emoji": ":european_castle:",
+      "description": "european castle",
+      "unicode": "🏰",
+      "tags": "european_castle"
+    },
+    {
+      "emoji": ":tent:",
+      "description": "tent",
+      "unicode": "⛺",
+      "tags": "camping:tent"
+    },
+    {
+      "emoji": ":factory:",
+      "description": "factory",
+      "unicode": "🏭",
+      "tags": "factory"
+    },
+    {
+      "emoji": ":tokyo_tower:",
+      "description": "tokyo tower",
+      "unicode": "🗼",
+      "tags": "tokyo_tower"
+    },
+    {
+      "emoji": ":japan:",
+      "description": "silhouette of japan",
+      "unicode": "🗾",
+      "tags": "japan"
+    },
+    {
+      "emoji": ":mount_fuji:",
+      "description": "mount fuji",
+      "unicode": "🗻",
+      "tags": "mount_fuji"
+    },
+    {
+      "emoji": ":sunrise_over_mountains:",
+      "description": "sunrise over mountains",
+      "unicode": "🌄",
+      "tags": "sunrise_over_mountains"
+    },
+    {
+      "emoji": ":sunrise:",
+      "description": "sunrise",
+      "unicode": "🌅",
+      "tags": "sunrise"
+    },
+    {
+      "emoji": ":night_with_stars:",
+      "description": "night with stars",
+      "unicode": "🌃",
+      "tags": "night_with_stars"
+    },
+    {
+      "emoji": ":statue_of_liberty:",
+      "description": "statue of liberty",
+      "unicode": "🗽",
+      "tags": "statue_of_liberty"
+    },
+    {
+      "emoji": ":bridge_at_night:",
+      "description": "bridge at night",
+      "unicode": "🌉",
+      "tags": "bridge_at_night"
+    },
+    {
+      "emoji": ":carousel_horse:",
+      "description": "carousel horse",
+      "unicode": "🎠",
+      "tags": "carousel_horse"
+    },
+    {
+      "emoji": ":ferris_wheel:",
+      "description": "ferris wheel",
+      "unicode": "🎡",
+      "tags": "ferris_wheel"
+    },
+    {
+      "emoji": ":fountain:",
+      "description": "fountain",
+      "unicode": "⛲",
+      "tags": "fountain"
+    },
+    {
+      "emoji": ":roller_coaster:",
+      "description": "roller coaster",
+      "unicode": "🎢",
+      "tags": "roller_coaster"
+    },
+    {
+      "emoji": ":ship:",
+      "description": "ship",
+      "unicode": "🚢",
+      "tags": "ship"
+    },
+    {
+      "emoji": ":boat:",
+      "description": "sailboat",
+      "unicode": "⛵",
+      "tags": "boat:sailboat"
+    },
+    {
+      "emoji": ":speedboat:",
+      "description": "speedboat",
+      "unicode": "🚤",
+      "tags": "ship:speedboat"
+    },
+    {
+      "emoji": ":rowboat:",
+      "description": "rowboat",
+      "unicode": "🚣",
+      "tags": "rowboat"
+    },
+    {
+      "emoji": ":anchor:",
+      "description": "anchor",
+      "unicode": "⚓",
+      "tags": "ship:anchor"
+    },
+    {
+      "emoji": ":rocket:",
+      "description": "rocket",
+      "unicode": "🚀",
+      "tags": "ship:launch:rocket"
+    },
+    {
+      "emoji": ":airplane:",
+      "description": "airplane",
+      "unicode": "✈️",
+      "tags": "flight:airplane"
+    },
+    {
+      "emoji": ":seat:",
+      "description": "seat",
+      "unicode": "💺",
+      "tags": "seat"
+    },
+    {
+      "emoji": ":helicopter:",
+      "description": "helicopter",
+      "unicode": "🚁",
+      "tags": "helicopter"
+    },
+    {
+      "emoji": ":steam_locomotive:",
+      "description": "steam locomotive",
+      "unicode": "🚂",
+      "tags": "train:steam_locomotive"
+    },
+    {
+      "emoji": ":tram:",
+      "description": "tram",
+      "unicode": "🚊",
+      "tags": "tram"
+    },
+    {
+      "emoji": ":station:",
+      "description": "station",
+      "unicode": "🚉",
+      "tags": "station"
+    },
+    {
+      "emoji": ":mountain_railway:",
+      "description": "mountain railway",
+      "unicode": "🚞",
+      "tags": "mountain_railway"
+    },
+    {
+      "emoji": ":train2:",
+      "description": "train",
+      "unicode": "🚆",
+      "tags": "train2"
+    },
+    {
+      "emoji": ":bullettrain_side:",
+      "description": "high-speed train",
+      "unicode": "🚄",
+      "tags": "train:bullettrain_side"
+    },
+    {
+      "emoji": ":bullettrain_front:",
+      "description": "high-speed train with bullet nose",
+      "unicode": "🚅",
+      "tags": "train:bullettrain_front"
+    },
+    {
+      "emoji": ":light_rail:",
+      "description": "light rail",
+      "unicode": "🚈",
+      "tags": "light_rail"
+    },
+    {
+      "emoji": ":metro:",
+      "description": "metro",
+      "unicode": "🚇",
+      "tags": "metro"
+    },
+    {
+      "emoji": ":monorail:",
+      "description": "monorail",
+      "unicode": "🚝",
+      "tags": "monorail"
+    },
+    {
+      "emoji": ":train:",
+      "description": "tram car",
+      "unicode": "🚋",
+      "tags": "train"
+    },
+    {
+      "emoji": ":railway_car:",
+      "description": "railway car",
+      "unicode": "🚃",
+      "tags": "railway_car"
+    },
+    {
+      "emoji": ":trolleybus:",
+      "description": "trolleybus",
+      "unicode": "🚎",
+      "tags": "trolleybus"
+    },
+    {
+      "emoji": ":bus:",
+      "description": "bus",
+      "unicode": "🚌",
+      "tags": "bus"
+    },
+    {
+      "emoji": ":oncoming_bus:",
+      "description": "oncoming bus",
+      "unicode": "🚍",
+      "tags": "oncoming_bus"
+    },
+    {
+      "emoji": ":blue_car:",
+      "description": "recreational vehicle",
+      "unicode": "🚙",
+      "tags": "blue_car"
+    },
+    {
+      "emoji": ":oncoming_automobile:",
+      "description": "oncoming automobile",
+      "unicode": "🚘",
+      "tags": "oncoming_automobile"
+    },
+    {
+      "emoji": ":car:",
+      "description": "automobile",
+      "unicode": "🚗",
+      "tags": "car:red_car"
+    },
+    {
+      "emoji": ":taxi:",
+      "description": "taxi",
+      "unicode": "🚕",
+      "tags": "taxi"
+    },
+    {
+      "emoji": ":oncoming_taxi:",
+      "description": "oncoming taxi",
+      "unicode": "🚖",
+      "tags": "oncoming_taxi"
+    },
+    {
+      "emoji": ":articulated_lorry:",
+      "description": "articulated lorry",
+      "unicode": "🚛",
+      "tags": "articulated_lorry"
+    },
+    {
+      "emoji": ":truck:",
+      "description": "delivery truck",
+      "unicode": "🚚",
+      "tags": "truck"
+    },
+    {
+      "emoji": ":rotating_light:",
+      "description": "police cars revolving light",
+      "unicode": "🚨",
+      "tags": "911:emergency:rotating_light"
+    },
+    {
+      "emoji": ":police_car:",
+      "description": "police car",
+      "unicode": "🚓",
+      "tags": "police_car"
+    },
+    {
+      "emoji": ":oncoming_police_car:",
+      "description": "oncoming police car",
+      "unicode": "🚔",
+      "tags": "oncoming_police_car"
+    },
+    {
+      "emoji": ":fire_engine:",
+      "description": "fire engine",
+      "unicode": "🚒",
+      "tags": "fire_engine"
+    },
+    {
+      "emoji": ":ambulance:",
+      "description": "ambulance",
+      "unicode": "🚑",
+      "tags": "ambulance"
+    },
+    {
+      "emoji": ":minibus:",
+      "description": "minibus",
+      "unicode": "🚐",
+      "tags": "minibus"
+    },
+    {
+      "emoji": ":bike:",
+      "description": "bicycle",
+      "unicode": "🚲",
+      "tags": "bicycle:bike"
+    },
+    {
+      "emoji": ":aerial_tramway:",
+      "description": "aerial tramway",
+      "unicode": "🚡",
+      "tags": "aerial_tramway"
+    },
+    {
+      "emoji": ":suspension_railway:",
+      "description": "suspension railway",
+      "unicode": "🚟",
+      "tags": "suspension_railway"
+    },
+    {
+      "emoji": ":mountain_cableway:",
+      "description": "mountain cableway",
+      "unicode": "🚠",
+      "tags": "mountain_cableway"
+    },
+    {
+      "emoji": ":tractor:",
+      "description": "tractor",
+      "unicode": "🚜",
+      "tags": "tractor"
+    },
+    {
+      "emoji": ":barber:",
+      "description": "barber pole",
+      "unicode": "💈",
+      "tags": "barber"
+    },
+    {
+      "emoji": ":busstop:",
+      "description": "bus stop",
+      "unicode": "🚏",
+      "tags": "busstop"
+    },
+    {
+      "emoji": ":ticket:",
+      "description": "ticket",
+      "unicode": "🎫",
+      "tags": "ticket"
+    },
+    {
+      "emoji": ":vertical_traffic_light:",
+      "description": "vertical traffic light",
+      "unicode": "🚦",
+      "tags": "semaphore:vertical_traffic_light"
+    },
+    {
+      "emoji": ":traffic_light:",
+      "description": "horizontal traffic light",
+      "unicode": "🚥",
+      "tags": "traffic_light"
+    },
+    {
+      "emoji": ":warning:",
+      "description": "warning sign",
+      "unicode": "⚠️",
+      "tags": "wip:warning"
+    },
+    {
+      "emoji": ":construction:",
+      "description": "construction sign",
+      "unicode": "🚧",
+      "tags": "wip:construction"
+    },
+    {
+      "emoji": ":beginner:",
+      "description": "japanese symbol for beginner",
+      "unicode": "🔰",
+      "tags": "beginner"
+    },
+    {
+      "emoji": ":fuelpump:",
+      "description": "fuel pump",
+      "unicode": "⛽",
+      "tags": "fuelpump"
+    },
+    {
+      "emoji": ":izakaya_lantern:",
+      "description": "izakaya lantern",
+      "unicode": "🏮",
+      "tags": "izakaya_lantern:lantern"
+    },
+    {
+      "emoji": ":slot_machine:",
+      "description": "slot machine",
+      "unicode": "🎰",
+      "tags": "slot_machine"
+    },
+    {
+      "emoji": ":hotsprings:",
+      "description": "hot springs",
+      "unicode": "♨️",
+      "tags": "hotsprings"
+    },
+    {
+      "emoji": ":moyai:",
+      "description": "moyai",
+      "unicode": "🗿",
+      "tags": "stone:moyai"
+    },
+    {
+      "emoji": ":circus_tent:",
+      "description": "circus tent",
+      "unicode": "🎪",
+      "tags": "circus_tent"
+    },
+    {
+      "emoji": ":performing_arts:",
+      "description": "performing arts",
+      "unicode": "🎭",
+      "tags": "theater:drama:performing_arts"
+    },
+    {
+      "emoji": ":round_pushpin:",
+      "description": "round pushpin",
+      "unicode": "📍",
+      "tags": "location:round_pushpin"
+    },
+    {
+      "emoji": ":triangular_flag_on_post:",
+      "description": "triangular flag on post",
+      "unicode": "🚩",
+      "tags": "triangular_flag_on_post"
+    },
+    {
+      "emoji": ":jp:",
+      "description": "regional indicator symbol letter j + regional indicator symbol letter p",
+      "unicode": "🇯🇵",
+      "tags": "japan:jp"
+    },
+    {
+      "emoji": ":kr:",
+      "description": "regional indicator symbol letter k + regional indicator symbol letter r",
+      "unicode": "🇰🇷",
+      "tags": "korea:kr"
+    },
+    {
+      "emoji": ":de:",
+      "description": "regional indicator symbol letter d + regional indicator symbol letter e",
+      "unicode": "🇩🇪",
+      "tags": "flag:germany:de"
+    },
+    {
+      "emoji": ":cn:",
+      "description": "regional indicator symbol letter c + regional indicator symbol letter n",
+      "unicode": "🇨🇳",
+      "tags": "china:cn"
+    },
+    {
+      "emoji": ":us:",
+      "description": "regional indicator symbol letter u + regional indicator symbol letter s",
+      "unicode": "🇺🇸",
+      "tags": "flag:united:america:us"
+    },
+    {
+      "emoji": ":fr:",
+      "description": "regional indicator symbol letter f + regional indicator symbol letter r",
+      "unicode": "🇫🇷",
+      "tags": "france:french:fr"
+    },
+    {
+      "emoji": ":es:",
+      "description": "regional indicator symbol letter e + regional indicator symbol letter s",
+      "unicode": "🇪🇸",
+      "tags": "spain:es"
+    },
+    {
+      "emoji": ":it:",
+      "description": "regional indicator symbol letter i + regional indicator symbol letter t",
+      "unicode": "🇮🇹",
+      "tags": "italy:it"
+    },
+    {
+      "emoji": ":ru:",
+      "description": "regional indicator symbol letter r + regional indicator symbol letter u",
+      "unicode": "🇷🇺",
+      "tags": "russia:ru"
+    },
+    {
+      "emoji": ":gb:",
+      "description": "regional indicator symbol letter g + regional indicator symbol letter b",
+      "unicode": "🇬🇧",
+      "tags": "flag:british:gb:uk"
+    },
+    {
+      "emoji": ":one:",
+      "description": "digit one + combining enclosing keycap",
+      "unicode": "1️⃣",
+      "tags": "one"
+    },
+    {
+      "emoji": ":two:",
+      "description": "digit two + combining enclosing keycap",
+      "unicode": "2️⃣",
+      "tags": "two"
+    },
+    {
+      "emoji": ":three:",
+      "description": "digit three + combining enclosing keycap",
+      "unicode": "3️⃣",
+      "tags": "three"
+    },
+    {
+      "emoji": ":four:",
+      "description": "digit four + combining enclosing keycap",
+      "unicode": "4️⃣",
+      "tags": "four"
+    },
+    {
+      "emoji": ":five:",
+      "description": "digit five + combining enclosing keycap",
+      "unicode": "5️⃣",
+      "tags": "five"
+    },
+    {
+      "emoji": ":six:",
+      "description": "digit six + combining enclosing keycap",
+      "unicode": "6️⃣",
+      "tags": "six"
+    },
+    {
+      "emoji": ":seven:",
+      "description": "digit seven + combining enclosing keycap",
+      "unicode": "7️⃣",
+      "tags": "seven"
+    },
+    {
+      "emoji": ":eight:",
+      "description": "digit eight + combining enclosing keycap",
+      "unicode": "8️⃣",
+      "tags": "eight"
+    },
+    {
+      "emoji": ":nine:",
+      "description": "digit nine + combining enclosing keycap",
+      "unicode": "9️⃣",
+      "tags": "nine"
+    },
+    {
+      "emoji": ":zero:",
+      "description": "digit zero + combining enclosing keycap",
+      "unicode": "0️⃣",
+      "tags": "zero"
+    },
+    {
+      "emoji": ":keycap_ten:",
+      "description": "keycap ten",
+      "unicode": "🔟",
+      "tags": "keycap_ten"
+    },
+    {
+      "emoji": ":1234:",
+      "description": "input symbol for numbers",
+      "unicode": "🔢",
+      "tags": "numbers:1234"
+    },
+    {
+      "emoji": ":hash:",
+      "description": "number sign + combining enclosing keycap",
+      "unicode": "#️⃣",
+      "tags": "number:hash"
+    },
+    {
+      "emoji": ":symbols:",
+      "description": "input symbol for symbols",
+      "unicode": "🔣",
+      "tags": "symbols"
+    },
+    {
+      "emoji": ":arrow_up:",
+      "description": "upwards black arrow",
+      "unicode": "⬆️",
+      "tags": "arrow_up"
+    },
+    {
+      "emoji": ":arrow_down:",
+      "description": "downwards black arrow",
+      "unicode": "⬇️",
+      "tags": "arrow_down"
+    },
+    {
+      "emoji": ":arrow_left:",
+      "description": "leftwards black arrow",
+      "unicode": "⬅️",
+      "tags": "arrow_left"
+    },
+    {
+      "emoji": ":arrow_right:",
+      "description": "black rightwards arrow",
+      "unicode": "➡️",
+      "tags": "arrow_right"
+    },
+    {
+      "emoji": ":capital_abcd:",
+      "description": "input symbol for latin capital letters",
+      "unicode": "🔠",
+      "tags": "letters:capital_abcd"
+    },
+    {
+      "emoji": ":abcd:",
+      "description": "input symbol for latin small letters",
+      "unicode": "🔡",
+      "tags": "abcd"
+    },
+    {
+      "emoji": ":abc:",
+      "description": "input symbol for latin letters",
+      "unicode": "🔤",
+      "tags": "alphabet:abc"
+    },
+    {
+      "emoji": ":arrow_upper_right:",
+      "description": "north east arrow",
+      "unicode": "↗️",
+      "tags": "arrow_upper_right"
+    },
+    {
+      "emoji": ":arrow_upper_left:",
+      "description": "north west arrow",
+      "unicode": "↖️",
+      "tags": "arrow_upper_left"
+    },
+    {
+      "emoji": ":arrow_lower_right:",
+      "description": "south east arrow",
+      "unicode": "↘️",
+      "tags": "arrow_lower_right"
+    },
+    {
+      "emoji": ":arrow_lower_left:",
+      "description": "south west arrow",
+      "unicode": "↙️",
+      "tags": "arrow_lower_left"
+    },
+    {
+      "emoji": ":left_right_arrow:",
+      "description": "left right arrow",
+      "unicode": "↔️",
+      "tags": "left_right_arrow"
+    },
+    {
+      "emoji": ":arrow_up_down:",
+      "description": "up down arrow",
+      "unicode": "↕️",
+      "tags": "arrow_up_down"
+    },
+    {
+      "emoji": ":arrows_counterclockwise:",
+      "description": "anticlockwise downwards and upwards open circle arrows",
+      "unicode": "🔄",
+      "tags": "sync:arrows_counterclockwise"
+    },
+    {
+      "emoji": ":arrow_backward:",
+      "description": "black left-pointing triangle",
+      "unicode": "◀️",
+      "tags": "arrow_backward"
+    },
+    {
+      "emoji": ":arrow_forward:",
+      "description": "black right-pointing triangle",
+      "unicode": "▶️",
+      "tags": "arrow_forward"
+    },
+    {
+      "emoji": ":arrow_up_small:",
+      "description": "up-pointing small red triangle",
+      "unicode": "🔼",
+      "tags": "arrow_up_small"
+    },
+    {
+      "emoji": ":arrow_down_small:",
+      "description": "down-pointing small red triangle",
+      "unicode": "🔽",
+      "tags": "arrow_down_small"
+    },
+    {
+      "emoji": ":leftwards_arrow_with_hook:",
+      "description": "leftwards arrow with hook",
+      "unicode": "↩️",
+      "tags": "return:leftwards_arrow_with_hook"
+    },
+    {
+      "emoji": ":arrow_right_hook:",
+      "description": "rightwards arrow with hook",
+      "unicode": "↪️",
+      "tags": "arrow_right_hook"
+    },
+    {
+      "emoji": ":information_source:",
+      "description": "information source",
+      "unicode": "ℹ️",
+      "tags": "information_source"
+    },
+    {
+      "emoji": ":rewind:",
+      "description": "black left-pointing double triangle",
+      "unicode": "⏪",
+      "tags": "rewind"
+    },
+    {
+      "emoji": ":fast_forward:",
+      "description": "black right-pointing double triangle",
+      "unicode": "⏩",
+      "tags": "fast_forward"
+    },
+    {
+      "emoji": ":arrow_double_up:",
+      "description": "black up-pointing double triangle",
+      "unicode": "⏫",
+      "tags": "arrow_double_up"
+    },
+    {
+      "emoji": ":arrow_double_down:",
+      "description": "black down-pointing double triangle",
+      "unicode": "⏬",
+      "tags": "arrow_double_down"
+    },
+    {
+      "emoji": ":arrow_heading_down:",
+      "description": "arrow pointing rightwards then curving downwards",
+      "unicode": "⤵️",
+      "tags": "arrow_heading_down"
+    },
+    {
+      "emoji": ":arrow_heading_up:",
+      "description": "arrow pointing rightwards then curving upwards",
+      "unicode": "⤴️",
+      "tags": "arrow_heading_up"
+    },
+    {
+      "emoji": ":ok:",
+      "description": "squared ok",
+      "unicode": "🆗",
+      "tags": "yes:ok"
+    },
+    {
+      "emoji": ":twisted_rightwards_arrows:",
+      "description": "twisted rightwards arrows",
+      "unicode": "🔀",
+      "tags": "shuffle:twisted_rightwards_arrows"
+    },
+    {
+      "emoji": ":repeat:",
+      "description": "clockwise rightwards and leftwards open circle arrows",
+      "unicode": "🔁",
+      "tags": "loop:repeat"
+    },
+    {
+      "emoji": ":repeat_one:",
+      "description": "clockwise rightwards and leftwards open circle arrows with circled one overlay",
+      "unicode": "🔂",
+      "tags": "repeat_one"
+    },
+    {
+      "emoji": ":new:",
+      "description": "squared new",
+      "unicode": "🆕",
+      "tags": "fresh:new"
+    },
+    {
+      "emoji": ":up:",
+      "description": "squared up with exclamation mark",
+      "unicode": "🆙",
+      "tags": "up"
+    },
+    {
+      "emoji": ":cool:",
+      "description": "squared cool",
+      "unicode": "🆒",
+      "tags": "cool"
+    },
+    {
+      "emoji": ":free:",
+      "description": "squared free",
+      "unicode": "🆓",
+      "tags": "free"
+    },
+    {
+      "emoji": ":ng:",
+      "description": "squared ng",
+      "unicode": "🆖",
+      "tags": "ng"
+    },
+    {
+      "emoji": ":signal_strength:",
+      "description": "antenna with bars",
+      "unicode": "📶",
+      "tags": "wifi:signal_strength"
+    },
+    {
+      "emoji": ":cinema:",
+      "description": "cinema",
+      "unicode": "🎦",
+      "tags": "film:movie:cinema"
+    },
+    {
+      "emoji": ":koko:",
+      "description": "squared katakana koko",
+      "unicode": "🈁",
+      "tags": "koko"
+    },
+    {
+      "emoji": ":u6307:",
+      "description": "squared cjk unified ideograph-6307",
+      "unicode": "🈯",
+      "tags": "u6307"
+    },
+    {
+      "emoji": ":u7a7a:",
+      "description": "squared cjk unified ideograph-7a7a",
+      "unicode": "🈳",
+      "tags": "u7a7a"
+    },
+    {
+      "emoji": ":u6e80:",
+      "description": "squared cjk unified ideograph-6e80",
+      "unicode": "🈵",
+      "tags": "u6e80"
+    },
+    {
+      "emoji": ":u5408:",
+      "description": "squared cjk unified ideograph-5408",
+      "unicode": "🈴",
+      "tags": "u5408"
+    },
+    {
+      "emoji": ":u7981:",
+      "description": "squared cjk unified ideograph-7981",
+      "unicode": "🈲",
+      "tags": "u7981"
+    },
+    {
+      "emoji": ":ideograph_advantage:",
+      "description": "circled ideograph advantage",
+      "unicode": "🉐",
+      "tags": "ideograph_advantage"
+    },
+    {
+      "emoji": ":u5272:",
+      "description": "squared cjk unified ideograph-5272",
+      "unicode": "🈹",
+      "tags": "u5272"
+    },
+    {
+      "emoji": ":u55b6:",
+      "description": "squared cjk unified ideograph-55b6",
+      "unicode": "🈺",
+      "tags": "u55b6"
+    },
+    {
+      "emoji": ":u6709:",
+      "description": "squared cjk unified ideograph-6709",
+      "unicode": "🈶",
+      "tags": "u6709"
+    },
+    {
+      "emoji": ":u7121:",
+      "description": "squared cjk unified ideograph-7121",
+      "unicode": "🈚",
+      "tags": "u7121"
+    },
+    {
+      "emoji": ":restroom:",
+      "description": "restroom",
+      "unicode": "🚻",
+      "tags": "toilet:restroom"
+    },
+    {
+      "emoji": ":mens:",
+      "description": "mens symbol",
+      "unicode": "🚹",
+      "tags": "mens"
+    },
+    {
+      "emoji": ":womens:",
+      "description": "womens symbol",
+      "unicode": "🚺",
+      "tags": "womens"
+    },
+    {
+      "emoji": ":baby_symbol:",
+      "description": "baby symbol",
+      "unicode": "🚼",
+      "tags": "baby_symbol"
+    },
+    {
+      "emoji": ":wc:",
+      "description": "water closet",
+      "unicode": "🚾",
+      "tags": "toilet:restroom:wc"
+    },
+    {
+      "emoji": ":potable_water:",
+      "description": "potable water symbol",
+      "unicode": "🚰",
+      "tags": "potable_water"
+    },
+    {
+      "emoji": ":put_litter_in_its_place:",
+      "description": "put litter in its place symbol",
+      "unicode": "🚮",
+      "tags": "put_litter_in_its_place"
+    },
+    {
+      "emoji": ":parking:",
+      "description": "negative squared latin capital letter p",
+      "unicode": "🅿️",
+      "tags": "parking"
+    },
+    {
+      "emoji": ":wheelchair:",
+      "description": "wheelchair symbol",
+      "unicode": "♿",
+      "tags": "accessibility:wheelchair"
+    },
+    {
+      "emoji": ":no_smoking:",
+      "description": "no smoking symbol",
+      "unicode": "🚭",
+      "tags": "no_smoking"
+    },
+    {
+      "emoji": ":u6708:",
+      "description": "squared cjk unified ideograph-6708",
+      "unicode": "🈷️",
+      "tags": "u6708"
+    },
+    {
+      "emoji": ":u7533:",
+      "description": "squared cjk unified ideograph-7533",
+      "unicode": "🈸",
+      "tags": "u7533"
+    },
+    {
+      "emoji": ":sa:",
+      "description": "squared katakana sa",
+      "unicode": "🈂️",
+      "tags": "sa"
+    },
+    {
+      "emoji": ":m:",
+      "description": "circled latin capital letter m",
+      "unicode": "Ⓜ️",
+      "tags": "m"
+    },
+    {
+      "emoji": ":passport_control:",
+      "description": "passport control",
+      "unicode": "🛂",
+      "tags": "passport_control"
+    },
+    {
+      "emoji": ":baggage_claim:",
+      "description": "baggage claim",
+      "unicode": "🛄",
+      "tags": "airport:baggage_claim"
+    },
+    {
+      "emoji": ":left_luggage:",
+      "description": "left luggage",
+      "unicode": "🛅",
+      "tags": "left_luggage"
+    },
+    {
+      "emoji": ":customs:",
+      "description": "customs",
+      "unicode": "🛃",
+      "tags": "customs"
+    },
+    {
+      "emoji": ":accept:",
+      "description": "circled ideograph accept",
+      "unicode": "🉑",
+      "tags": "accept"
+    },
+    {
+      "emoji": ":secret:",
+      "description": "circled ideograph secret",
+      "unicode": "㊙️",
+      "tags": "secret"
+    },
+    {
+      "emoji": ":congratulations:",
+      "description": "circled ideograph congratulation",
+      "unicode": "㊗️",
+      "tags": "congratulations"
+    },
+    {
+      "emoji": ":cl:",
+      "description": "squared cl",
+      "unicode": "🆑",
+      "tags": "cl"
+    },
+    {
+      "emoji": ":sos:",
+      "description": "squared sos",
+      "unicode": "🆘",
+      "tags": "help:emergency:sos"
+    },
+    {
+      "emoji": ":id:",
+      "description": "squared id",
+      "unicode": "🆔",
+      "tags": "id"
+    },
+    {
+      "emoji": ":no_entry_sign:",
+      "description": "no entry sign",
+      "unicode": "🚫",
+      "tags": "block:forbidden:no_entry_sign"
+    },
+    {
+      "emoji": ":underage:",
+      "description": "no one under eighteen symbol",
+      "unicode": "🔞",
+      "tags": "underage"
+    },
+    {
+      "emoji": ":no_mobile_phones:",
+      "description": "no mobile phones",
+      "unicode": "📵",
+      "tags": "no_mobile_phones"
+    },
+    {
+      "emoji": ":do_not_litter:",
+      "description": "do not litter symbol",
+      "unicode": "🚯",
+      "tags": "do_not_litter"
+    },
+    {
+      "emoji": ":non-potable_water:",
+      "description": "non-potable water symbol",
+      "unicode": "🚱",
+      "tags": "non-potable_water"
+    },
+    {
+      "emoji": ":no_bicycles:",
+      "description": "no bicycles",
+      "unicode": "🚳",
+      "tags": "no_bicycles"
+    },
+    {
+      "emoji": ":no_pedestrians:",
+      "description": "no pedestrians",
+      "unicode": "🚷",
+      "tags": "no_pedestrians"
+    },
+    {
+      "emoji": ":children_crossing:",
+      "description": "children crossing",
+      "unicode": "🚸",
+      "tags": "children_crossing"
+    },
+    {
+      "emoji": ":no_entry:",
+      "description": "no entry",
+      "unicode": "⛔",
+      "tags": "limit:no_entry"
+    },
+    {
+      "emoji": ":eight_spoked_asterisk:",
+      "description": "eight spoked asterisk",
+      "unicode": "✳️",
+      "tags": "eight_spoked_asterisk"
+    },
+    {
+      "emoji": ":sparkle:",
+      "description": "sparkle",
+      "unicode": "❇️",
+      "tags": "sparkle"
+    },
+    {
+      "emoji": ":negative_squared_cross_mark:",
+      "description": "negative squared cross mark",
+      "unicode": "❎",
+      "tags": "negative_squared_cross_mark"
+    },
+    {
+      "emoji": ":white_check_mark:",
+      "description": "white heavy check mark",
+      "unicode": "✅",
+      "tags": "white_check_mark"
+    },
+    {
+      "emoji": ":eight_pointed_black_star:",
+      "description": "eight pointed black star",
+      "unicode": "✴️",
+      "tags": "eight_pointed_black_star"
+    },
+    {
+      "emoji": ":heart_decoration:",
+      "description": "heart decoration",
+      "unicode": "💟",
+      "tags": "heart_decoration"
+    },
+    {
+      "emoji": ":vs:",
+      "description": "squared vs",
+      "unicode": "🆚",
+      "tags": "vs"
+    },
+    {
+      "emoji": ":vibration_mode:",
+      "description": "vibration mode",
+      "unicode": "📳",
+      "tags": "vibration_mode"
+    },
+    {
+      "emoji": ":mobile_phone_off:",
+      "description": "mobile phone off",
+      "unicode": "📴",
+      "tags": "mute:off:mobile_phone_off"
+    },
+    {
+      "emoji": ":a:",
+      "description": "negative squared latin capital letter a",
+      "unicode": "🅰️",
+      "tags": "a"
+    },
+    {
+      "emoji": ":b:",
+      "description": "negative squared latin capital letter b",
+      "unicode": "🅱️",
+      "tags": "b"
+    },
+    {
+      "emoji": ":ab:",
+      "description": "negative squared ab",
+      "unicode": "🆎",
+      "tags": "ab"
+    },
+    {
+      "emoji": ":o2:",
+      "description": "negative squared latin capital letter o",
+      "unicode": "🅾️",
+      "tags": "o2"
+    },
+    {
+      "emoji": ":diamond_shape_with_a_dot_inside:",
+      "description": "diamond shape with a dot inside",
+      "unicode": "💠",
+      "tags": "diamond_shape_with_a_dot_inside"
+    },
+    {
+      "emoji": ":loop:",
+      "description": "double curly loop",
+      "unicode": "➿",
+      "tags": "loop"
+    },
+    {
+      "emoji": ":recycle:",
+      "description": "black universal recycling symbol",
+      "unicode": "♻️",
+      "tags": "environment:green:recycle"
+    },
+    {
+      "emoji": ":aries:",
+      "description": "aries",
+      "unicode": "♈",
+      "tags": "aries"
+    },
+    {
+      "emoji": ":taurus:",
+      "description": "taurus",
+      "unicode": "♉",
+      "tags": "taurus"
+    },
+    {
+      "emoji": ":gemini:",
+      "description": "gemini",
+      "unicode": "♊",
+      "tags": "gemini"
+    },
+    {
+      "emoji": ":cancer:",
+      "description": "cancer",
+      "unicode": "♋",
+      "tags": "cancer"
+    },
+    {
+      "emoji": ":leo:",
+      "description": "leo",
+      "unicode": "♌",
+      "tags": "leo"
+    },
+    {
+      "emoji": ":virgo:",
+      "description": "virgo",
+      "unicode": "♍",
+      "tags": "virgo"
+    },
+    {
+      "emoji": ":libra:",
+      "description": "libra",
+      "unicode": "♎",
+      "tags": "libra"
+    },
+    {
+      "emoji": ":scorpius:",
+      "description": "scorpius",
+      "unicode": "♏",
+      "tags": "scorpius"
+    },
+    {
+      "emoji": ":sagittarius:",
+      "description": "sagittarius",
+      "unicode": "♐",
+      "tags": "sagittarius"
+    },
+    {
+      "emoji": ":capricorn:",
+      "description": "capricorn",
+      "unicode": "♑",
+      "tags": "capricorn"
+    },
+    {
+      "emoji": ":aquarius:",
+      "description": "aquarius",
+      "unicode": "♒",
+      "tags": "aquarius"
+    },
+    {
+      "emoji": ":pisces:",
+      "description": "pisces",
+      "unicode": "♓",
+      "tags": "pisces"
+    },
+    {
+      "emoji": ":ophiuchus:",
+      "description": "ophiuchus",
+      "unicode": "⛎",
+      "tags": "ophiuchus"
+    },
+    {
+      "emoji": ":six_pointed_star:",
+      "description": "six pointed star with middle dot",
+      "unicode": "🔯",
+      "tags": "six_pointed_star"
+    },
+    {
+      "emoji": ":atm:",
+      "description": "automated teller machine",
+      "unicode": "🏧",
+      "tags": "atm"
+    },
+    {
+      "emoji": ":chart:",
+      "description": "chart with upwards trend and yen sign",
+      "unicode": "💹",
+      "tags": "chart"
+    },
+    {
+      "emoji": ":heavy_dollar_sign:",
+      "description": "heavy dollar sign",
+      "unicode": "💲",
+      "tags": "heavy_dollar_sign"
+    },
+    {
+      "emoji": ":currency_exchange:",
+      "description": "currency exchange",
+      "unicode": "💱",
+      "tags": "currency_exchange"
+    },
+    {
+      "emoji": ":copyright:",
+      "description": "copyright sign",
+      "unicode": "©️",
+      "tags": "copyright"
+    },
+    {
+      "emoji": ":registered:",
+      "description": "registered sign",
+      "unicode": "®️",
+      "tags": "registered"
+    },
+    {
+      "emoji": ":tm:",
+      "description": "trade mark sign",
+      "unicode": "™️",
+      "tags": "trademark:tm"
+    },
+    {
+      "emoji": ":x:",
+      "description": "cross mark",
+      "unicode": "❌",
+      "tags": "x"
+    },
+    {
+      "emoji": ":bangbang:",
+      "description": "double exclamation mark",
+      "unicode": "‼️",
+      "tags": "bangbang"
+    },
+    {
+      "emoji": ":interrobang:",
+      "description": "exclamation question mark",
+      "unicode": "⁉️",
+      "tags": "interrobang"
+    },
+    {
+      "emoji": ":exclamation:",
+      "description": "heavy exclamation mark symbol",
+      "unicode": "❗",
+      "tags": "bang:exclamation:heavy_exclamation_mark"
+    },
+    {
+      "emoji": ":question:",
+      "description": "black question mark ornament",
+      "unicode": "❓",
+      "tags": "confused:question"
+    },
+    {
+      "emoji": ":grey_exclamation:",
+      "description": "white exclamation mark ornament",
+      "unicode": "❕",
+      "tags": "grey_exclamation"
+    },
+    {
+      "emoji": ":grey_question:",
+      "description": "white question mark ornament",
+      "unicode": "❔",
+      "tags": "grey_question"
+    },
+    {
+      "emoji": ":o:",
+      "description": "heavy large circle",
+      "unicode": "⭕",
+      "tags": "o"
+    },
+    {
+      "emoji": ":top:",
+      "description": "top with upwards arrow above",
+      "unicode": "🔝",
+      "tags": "top"
+    },
+    {
+      "emoji": ":end:",
+      "description": "end with leftwards arrow above",
+      "unicode": "🔚",
+      "tags": "end"
+    },
+    {
+      "emoji": ":back:",
+      "description": "back with leftwards arrow above",
+      "unicode": "🔙",
+      "tags": "back"
+    },
+    {
+      "emoji": ":on:",
+      "description": "on with exclamation mark with left right arrow above",
+      "unicode": "🔛",
+      "tags": "on"
+    },
+    {
+      "emoji": ":soon:",
+      "description": "soon with rightwards arrow above",
+      "unicode": "🔜",
+      "tags": "soon"
+    },
+    {
+      "emoji": ":arrows_clockwise:",
+      "description": "clockwise downwards and upwards open circle arrows",
+      "unicode": "🔃",
+      "tags": "arrows_clockwise"
+    },
+    {
+      "emoji": ":clock12:",
+      "description": "clock face twelve oclock",
+      "unicode": "🕛",
+      "tags": "clock12"
+    },
+    {
+      "emoji": ":clock1230:",
+      "description": "clock face twelve-thirty",
+      "unicode": "🕧",
+      "tags": "clock1230"
+    },
+    {
+      "emoji": ":clock1:",
+      "description": "clock face one oclock",
+      "unicode": "🕐",
+      "tags": "clock1"
+    },
+    {
+      "emoji": ":clock130:",
+      "description": "clock face one-thirty",
+      "unicode": "🕜",
+      "tags": "clock130"
+    },
+    {
+      "emoji": ":clock2:",
+      "description": "clock face two oclock",
+      "unicode": "🕑",
+      "tags": "clock2"
+    },
+    {
+      "emoji": ":clock230:",
+      "description": "clock face two-thirty",
+      "unicode": "🕝",
+      "tags": "clock230"
+    },
+    {
+      "emoji": ":clock3:",
+      "description": "clock face three oclock",
+      "unicode": "🕒",
+      "tags": "clock3"
+    },
+    {
+      "emoji": ":clock330:",
+      "description": "clock face three-thirty",
+      "unicode": "🕞",
+      "tags": "clock330"
+    },
+    {
+      "emoji": ":clock4:",
+      "description": "clock face four oclock",
+      "unicode": "🕓",
+      "tags": "clock4"
+    },
+    {
+      "emoji": ":clock430:",
+      "description": "clock face four-thirty",
+      "unicode": "🕟",
+      "tags": "clock430"
+    },
+    {
+      "emoji": ":clock5:",
+      "description": "clock face five oclock",
+      "unicode": "🕔",
+      "tags": "clock5"
+    },
+    {
+      "emoji": ":clock530:",
+      "description": "clock face five-thirty",
+      "unicode": "🕠",
+      "tags": "clock530"
+    },
+    {
+      "emoji": ":clock6:",
+      "description": "clock face six oclock",
+      "unicode": "🕕",
+      "tags": "clock6"
+    },
+    {
+      "emoji": ":clock7:",
+      "description": "clock face seven oclock",
+      "unicode": "🕖",
+      "tags": "clock7"
+    },
+    {
+      "emoji": ":clock8:",
+      "description": "clock face eight oclock",
+      "unicode": "🕗",
+      "tags": "clock8"
+    },
+    {
+      "emoji": ":clock9:",
+      "description": "clock face nine oclock",
+      "unicode": "🕘",
+      "tags": "clock9"
+    },
+    {
+      "emoji": ":clock10:",
+      "description": "clock face ten oclock",
+      "unicode": "🕙",
+      "tags": "clock10"
+    },
+    {
+      "emoji": ":clock11:",
+      "description": "clock face eleven oclock",
+      "unicode": "🕚",
+      "tags": "clock11"
+    },
+    {
+      "emoji": ":clock630:",
+      "description": "clock face six-thirty",
+      "unicode": "🕡",
+      "tags": "clock630"
+    },
+    {
+      "emoji": ":clock730:",
+      "description": "clock face seven-thirty",
+      "unicode": "🕢",
+      "tags": "clock730"
+    },
+    {
+      "emoji": ":clock830:",
+      "description": "clock face eight-thirty",
+      "unicode": "🕣",
+      "tags": "clock830"
+    },
+    {
+      "emoji": ":clock930:",
+      "description": "clock face nine-thirty",
+      "unicode": "🕤",
+      "tags": "clock930"
+    },
+    {
+      "emoji": ":clock1030:",
+      "description": "clock face ten-thirty",
+      "unicode": "🕥",
+      "tags": "clock1030"
+    },
+    {
+      "emoji": ":clock1130:",
+      "description": "clock face eleven-thirty",
+      "unicode": "🕦",
+      "tags": "clock1130"
+    },
+    {
+      "emoji": ":heavy_multiplication_x:",
+      "description": "heavy multiplication x",
+      "unicode": "✖️",
+      "tags": "heavy_multiplication_x"
+    },
+    {
+      "emoji": ":heavy_plus_sign:",
+      "description": "heavy plus sign",
+      "unicode": "➕",
+      "tags": "heavy_plus_sign"
+    },
+    {
+      "emoji": ":heavy_minus_sign:",
+      "description": "heavy minus sign",
+      "unicode": "➖",
+      "tags": "heavy_minus_sign"
+    },
+    {
+      "emoji": ":heavy_division_sign:",
+      "description": "heavy division sign",
+      "unicode": "➗",
+      "tags": "heavy_division_sign"
+    },
+    {
+      "emoji": ":spades:",
+      "description": "black spade suit",
+      "unicode": "♠️",
+      "tags": "spades"
+    },
+    {
+      "emoji": ":hearts:",
+      "description": "black heart suit",
+      "unicode": "♥️",
+      "tags": "hearts"
+    },
+    {
+      "emoji": ":clubs:",
+      "description": "black club suit",
+      "unicode": "♣️",
+      "tags": "clubs"
+    },
+    {
+      "emoji": ":diamonds:",
+      "description": "black diamond suit",
+      "unicode": "♦️",
+      "tags": "diamonds"
+    },
+    {
+      "emoji": ":white_flower:",
+      "description": "white flower",
+      "unicode": "💮",
+      "tags": "white_flower"
+    },
+    {
+      "emoji": ":100:",
+      "description": "hundred points symbol",
+      "unicode": "💯",
+      "tags": "score:perfect:100"
+    },
+    {
+      "emoji": ":heavy_check_mark:",
+      "description": "heavy check mark",
+      "unicode": "✔️",
+      "tags": "heavy_check_mark"
+    },
+    {
+      "emoji": ":ballot_box_with_check:",
+      "description": "ballot box with check",
+      "unicode": "☑️",
+      "tags": "ballot_box_with_check"
+    },
+    {
+      "emoji": ":radio_button:",
+      "description": "radio button",
+      "unicode": "🔘",
+      "tags": "radio_button"
+    },
+    {
+      "emoji": ":link:",
+      "description": "link symbol",
+      "unicode": "🔗",
+      "tags": "link"
+    },
+    {
+      "emoji": ":curly_loop:",
+      "description": "curly loop",
+      "unicode": "➰",
+      "tags": "curly_loop"
+    },
+    {
+      "emoji": ":wavy_dash:",
+      "description": "wavy dash",
+      "unicode": "〰️",
+      "tags": "wavy_dash"
+    },
+    {
+      "emoji": ":part_alternation_mark:",
+      "description": "part alternation mark",
+      "unicode": "〽️",
+      "tags": "part_alternation_mark"
+    },
+    {
+      "emoji": ":trident:",
+      "description": "trident emblem",
+      "unicode": "🔱",
+      "tags": "trident"
+    },
+    {
+      "emoji": ":black_medium_square:",
+      "description": "black medium square",
+      "unicode": "◼️",
+      "tags": "black_medium_square"
+    },
+    {
+      "emoji": ":white_medium_square:",
+      "description": "white medium square",
+      "unicode": "◻️",
+      "tags": "white_medium_square"
+    },
+    {
+      "emoji": ":black_medium_small_square:",
+      "description": "black medium small square",
+      "unicode": "◾",
+      "tags": "black_medium_small_square"
+    },
+    {
+      "emoji": ":white_medium_small_square:",
+      "description": "white medium small square",
+      "unicode": "◽",
+      "tags": "white_medium_small_square"
+    },
+    {
+      "emoji": ":black_small_square:",
+      "description": "black small square",
+      "unicode": "▪️",
+      "tags": "black_small_square"
+    },
+    {
+      "emoji": ":white_small_square:",
+      "description": "white small square",
+      "unicode": "▫️",
+      "tags": "white_small_square"
+    },
+    {
+      "emoji": ":small_red_triangle:",
+      "description": "up-pointing red triangle",
+      "unicode": "🔺",
+      "tags": "small_red_triangle"
+    },
+    {
+      "emoji": ":black_square_button:",
+      "description": "black square button",
+      "unicode": "🔲",
+      "tags": "black_square_button"
+    },
+    {
+      "emoji": ":white_square_button:",
+      "description": "white square button",
+      "unicode": "🔳",
+      "tags": "white_square_button"
+    },
+    {
+      "emoji": ":black_circle:",
+      "description": "medium black circle",
+      "unicode": "⚫",
+      "tags": "black_circle"
+    },
+    {
+      "emoji": ":white_circle:",
+      "description": "medium white circle",
+      "unicode": "⚪",
+      "tags": "white_circle"
+    },
+    {
+      "emoji": ":red_circle:",
+      "description": "large red circle",
+      "unicode": "🔴",
+      "tags": "red_circle"
+    },
+    {
+      "emoji": ":large_blue_circle:",
+      "description": "large blue circle",
+      "unicode": "🔵",
+      "tags": "large_blue_circle"
+    },
+    {
+      "emoji": ":small_red_triangle_down:",
+      "description": "down-pointing red triangle",
+      "unicode": "🔻",
+      "tags": "small_red_triangle_down"
+    },
+    {
+      "emoji": ":white_large_square:",
+      "description": "white large square",
+      "unicode": "⬜",
+      "tags": "white_large_square"
+    },
+    {
+      "emoji": ":black_large_square:",
+      "description": "black large square",
+      "unicode": "⬛",
+      "tags": "black_large_square"
+    },
+    {
+      "emoji": ":large_orange_diamond:",
+      "description": "large orange diamond",
+      "unicode": "🔶",
+      "tags": "large_orange_diamond"
+    },
+    {
+      "emoji": ":large_blue_diamond:",
+      "description": "large blue diamond",
+      "unicode": "🔷",
+      "tags": "large_blue_diamond"
+    },
+    {
+      "emoji": ":small_orange_diamond:",
+      "description": "small orange diamond",
+      "unicode": "🔸",
+      "tags": "small_orange_diamond"
+    },
+    {
+      "emoji": ":small_blue_diamond:",
+      "description": "small blue diamond",
+      "unicode": "🔹",
+      "tags": "small_blue_diamond"
+    },
+    {
+      "emoji": ":basecamp:",
+      "description": "",
+      "unicode": "",
+      "tags": "basecamp"
+    },
+    {
+      "emoji": ":basecampy:",
+      "description": "",
+      "unicode": "",
+      "tags": "basecampy"
+    },
+    {
+      "emoji": ":bowtie:",
+      "description": "",
+      "unicode": "",
+      "tags": "bowtie"
+    },
+    {
+      "emoji": ":feelsgood:",
+      "description": "",
+      "unicode": "",
+      "tags": "feelsgood"
+    },
+    {
+      "emoji": ":finnadie:",
+      "description": "",
+      "unicode": "",
+      "tags": "finnadie"
+    },
+    {
+      "emoji": ":fu:",
+      "description": "",
+      "unicode": "",
+      "tags": "fu"
+    },
+    {
+      "emoji": ":goberserk:",
+      "description": "",
+      "unicode": "",
+      "tags": "goberserk"
+    },
+    {
+      "emoji": ":godmode:",
+      "description": "",
+      "unicode": "",
+      "tags": "godmode"
+    },
+    {
+      "emoji": ":hurtrealbad:",
+      "description": "",
+      "unicode": "",
+      "tags": "hurtrealbad"
+    },
+    {
+      "emoji": ":metal:",
+      "description": "",
+      "unicode": "",
+      "tags": "metal"
+    },
+    {
+      "emoji": ":neckbeard:",
+      "description": "",
+      "unicode": "",
+      "tags": "neckbeard"
+    },
+    {
+      "emoji": ":octocat:",
+      "description": "",
+      "unicode": "",
+      "tags": "octocat"
+    },
+    {
+      "emoji": ":rage1:",
+      "description": "",
+      "unicode": "",
+      "tags": "rage1"
+    },
+    {
+      "emoji": ":rage2:",
+      "description": "",
+      "unicode": "",
+      "tags": "rage2"
+    },
+    {
+      "emoji": ":rage3:",
+      "description": "",
+      "unicode": "",
+      "tags": "rage3"
+    },
+    {
+      "emoji": ":rage4:",
+      "description": "",
+      "unicode": "",
+      "tags": "rage4"
+    },
+    {
+      "emoji": ":shipit:",
+      "description": "",
+      "unicode": "",
+      "tags": "shipit:squirrel"
+    },
+    {
+      "emoji": ":suspect:",
+      "description": "",
+      "unicode": "",
+      "tags": "suspect"
+    },
+    {
+      "emoji": ":taco:",
+      "description": "",
+      "unicode": "",
+      "tags": "taco"
+    },
+    {
+      "emoji": ":trollface:",
+      "description": "",
+      "unicode": "",
+      "tags": "trollface"
+    }
+  ]
+}
