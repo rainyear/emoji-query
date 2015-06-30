@@ -10,6 +10,7 @@ npm install emoji-query
 
 ```sh
 $ emoji-query
+# random pick
 
 👿   :imp:                         #imp
 
