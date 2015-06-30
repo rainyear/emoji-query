@@ -2,16 +2,16 @@
 
 ## Install
 
-```js
+```sh
 npm install emoji-query
 ```
 
 ## Usage
 
-```js
+```sh
 $ emoji-query
 
-#️⃣   :hash:                        #number sign + combining enclosing keycap
+👿   :imp:                         #imp
 
 $ emoji-query dog
 
