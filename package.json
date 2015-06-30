@@ -1,0 +1,22 @@
+{
+  "name": "emoji-query",
+  "version": "1.0.0",
+  "description": "Query emoji string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rainyear/emoji-query.git"
+  },
+  "keywords": [
+    "emoji"
+  ],
+  "author": "https://github.com/rainyear",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rainyear/emoji-query/issues"
+  },
+  "homepage": "https://github.com/rainyear/emoji-query"
+}
